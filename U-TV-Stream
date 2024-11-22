@@ -51,6 +51,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://kametv.my.id/pdx/play.mpd?id=205
 
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Indonesia Channels",Indosiar-Liga 1 BRI
+#http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
+http://xtv.ooo:8080/0966717777/0966717777/350972
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
