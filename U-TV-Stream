@@ -1,6 +1,6 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
-#EXTINF:-1 tvg-logo="https://wayang.wordpress.com/wp-content/uploads/2010/03/bambang_wisanggeni.jpg" group-title="Bal-balan", © Created By U²
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ff/32/c4/ff32c4ff7098f1e23ce17c4e1a457de8.jpg" group-title="Bal-balan", © Created By U²
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
