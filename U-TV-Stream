@@ -25,7 +25,7 @@ https://surf.openwindows038.workers.dev/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6786&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="Sports - Champions TV",ChampionsTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="Champions TV",ChampionsTV 4
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
