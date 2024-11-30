@@ -68,10 +68,10 @@ http://31.42.187.37:25461/watchpad13158/1234/113
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/skysportEPL.png" group-title="BAL-BALAN TV",SkySports PremierLeague HD-UK
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9891.ts
 
-#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/3HW.png" group-title="BAL-BALAN TV",SUPERSPORTS PREMIERLEAGUE HD
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
-#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/7HW.png" group-title="BAL-BALAN TV",SUPERSPORTS LALIGA HD
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/515.ts
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/3HW.png" group-title="BAL-BALAN TV",Supersports PremierLeague HD
+http://extraott.com:80/live/3969424152/3723991250/159892.m3u8
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/7HW.png" group-title="BAL-BALAN TV",Supersports LaLiga HD
+http://extraott.com:80/live/3969424152/3723991250/159894.m3u8
 
 #EXTINF:-1 group-title="BAL-BALAN TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1d/HUB_Premier_1.png/revision/latest/scale-to-width-down/250?cb=20240218063504&path-prefix=vi", Hub Premier 1
 http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
@@ -103,7 +103,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 
 
-======== Bal-balan timnas ========
+====== Bal-balan timnas ======
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
