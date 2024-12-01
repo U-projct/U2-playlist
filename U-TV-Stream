@@ -114,13 +114,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Balapan - MOTO GP & F1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
+#EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1024px-Sky_Sport_F1_-_Logo_2020.svg.png?20200924143759" group-title="Balapan - MOTO GP & F1", Sky SPORTS F1 HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1024px-Sky_Sport_F1_-_Logo_2020.svg.png?20200924143759" group-title="Balapan TV - MOTO GP & F1", Sky Sport F1 HD
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/308
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3d3nHBtul54cHUXNx5DR9QMLCbkdHU43LA&usqp=CAU" group-title="Balapan - MOTO GP & F1", SKY SPORT MOTOGP HD - Italy
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3d3nHBtul54cHUXNx5DR9QMLCbkdHU43LA&usqp=CAU" group-title="Balapan TV - MOTO GP & F1", SKY SPORT MOTOGP HD - Italy
 http://extraott.com:80/live/3969424152/3723991250/35386.m3u8 
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://iili.io/d06YgrN.png" group-title="Balapan TV - MOTO GP & F1",DAZN F1
@@ -717,7 +717,7 @@ http://extraott.com:80/live/3969424152/3723991250/35386.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysi8jGCxlR5_MNvGv2YQCg0KDe-J9w7c83HFx6nZM0HeqZtq3UPzumcGM&s=10" tvg-id="98" , Motorvision+ TV
 http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1024px-Sky_Sport_F1_-_Logo_2020.svg.png?20200924143759" group-title="Balapan - MOTO GP & F1", Sky SPORTS F1 HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1024px-Sky_Sport_F1_-_Logo_2020.svg.png?20200924143759" group-title="Sports", Sky Sport F1 HD
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/308
 
 
