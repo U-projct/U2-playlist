@@ -1,8 +1,6 @@
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-======= Bal-balan tv =======
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="BAL-BALAN TV",ChampionsTV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -89,7 +87,6 @@ https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|user-agent=
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
-
 ====== Bal-balan Indonesia ======
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -105,13 +102,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 https://dusk.biz.id/visas/index.mpd?id=1002
 
 
-===== Balapan - MOTO GP & F1 =====
+===== Balapan TV - MOTO GP & F1 =====
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Balapan - MOTO GP & F1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
+#EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -120,11 +117,23 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="Balapan - MOTO GP & F1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://iili.io/d06YgrN.png" group-title="Balapan - MOTO GP & F1",DAZN F1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1024px-Sky_Sport_F1_-_Logo_2020.svg.png?20200924143759" group-title="Balapan - MOTO GP & F1", Sky SPORTS F1 HD
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/308
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3d3nHBtul54cHUXNx5DR9QMLCbkdHU43LA&usqp=CAU" group-title="Balapan - MOTO GP & F1", SKY SPORT MOTOGP HD - Italy
+http://extraott.com:80/live/3969424152/3723991250/35386.m3u8 
+
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://iili.io/d06YgrN.png" group-title="Balapan TV - MOTO GP & F1",DAZN F1
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
+#EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-logo="https://www.dens.tv/images/channel-logo/120.jpg", motoRRacing TV
+http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=MotoRRacing_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysi8jGCxlR5_MNvGv2YQCg0KDe-J9w7c83HFx6nZM0HeqZtq3UPzumcGM&s=10" tvg-id="98" , Motorvision+ TV
+http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 ======= ChampionsTV =======
 
@@ -426,25 +435,25 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports",SpoTV 2
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6P5TEvw2kEswgxfip2nOlOoJWD6Hn-70W3A&usqp=CAU" group-title="BAL-BALAN TV",DAZN 1 Spa
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6P5TEvw2kEswgxfip2nOlOoJWD6Hn-70W3A&usqp=CAU" group-title="Sports",DAZN 1 Spa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
  
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70" group-title="BAL-BALAN TV",DAZN 2 Spa
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70" group-title="Sports",DAZN 2 Spa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
  
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1L6e42raxIHVmXvSjOAuoAIUboUZFFBPQig&usqp=CAU" group-title="BAL-BALAN TV",DAZN 3 Spa
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1L6e42raxIHVmXvSjOAuoAIUboUZFFBPQig&usqp=CAU" group-title="Sports",DAZN 3 Spa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
  
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNb4pGAc2np1PyPzo3v9_DqlTiokurveDf5g&usqp=CAU" group-title="BAL-BALAN TV",DAZN 4 Spa
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNb4pGAc2np1PyPzo3v9_DqlTiokurveDf5g&usqp=CAU" group-title="Sports",DAZN 4 Spa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
@@ -698,6 +707,19 @@ http://extraott.com/live/6945574629/7169628753/710940.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/640px-TVRI_Sport_2022.svg.png" group-title="Sports",TVRI Sport HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.dens.tv/images/channel-logo/120.jpg", motoRRacing TV
+http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=MotoRRacing_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3d3nHBtul54cHUXNx5DR9QMLCbkdHU43LA&usqp=CAU" group-title="Sports", SKY SPORT MOTOGP HD - Italy
+http://extraott.com:80/live/3969424152/3723991250/35386.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysi8jGCxlR5_MNvGv2YQCg0KDe-J9w7c83HFx6nZM0HeqZtq3UPzumcGM&s=10" tvg-id="98" , Motorvision+ TV
+http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1024px-Sky_Sport_F1_-_Logo_2020.svg.png?20200924143759" group-title="Balapan - MOTO GP & F1", Sky SPORTS F1 HD
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/308
+
 
 
 <=======================Local Channels===============>
@@ -2446,12 +2468,12 @@ https://stream.streamaudio.de:8000/teststream3
 https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
-#EXTINF:-1 tvg-logo="logo_url" group-title="❗INFO❗", Gunakan dengan bijak
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjqc8EaZj_uJhBQr8AiTX4YC1LoNbO1osnA&usqp=CAU" group-title="❗INFO❗", Gunakan dengan bijak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 tvg-logo="logo_url" group-title="❗INFO❗", Tidak untuk diperjual belikan
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjqc8EaZj_uJhBQr8AiTX4YC1LoNbO1osnA&usqp=CAU" group-title="❗INFO❗", Tidak untuk diperjual belikan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
