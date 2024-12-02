@@ -66,7 +66,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9891.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMqJlhs8NLfZJooOL0UyOCUu2jEkMeY7YgP3wShsSQGGap3iHiIfp2F5es&s=10" group-title="BAL-BALAN TV",Sky Sport Premier League-Aus
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5iFUL4NeaIhpMLUQDZeB4sYOjgk6KK9wzMA&usqp=CAU" group-title="BAL-BALAN TV",Sky Sport Premier League-Aus
 http://extraott.com/live/6945574629/7169628753/710941.ts
 
 #EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/3HW.png" group-title="BAL-BALAN TV",Supersports PremierLeague HD
@@ -624,7 +624,7 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMqJlhs8NLfZJooOL0UyOCUu2jEkMeY7YgP3wShsSQGGap3iHiIfp2F5es&s=10" group-title="Sports",Sky Sport Premier League-Aus
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5iFUL4NeaIhpMLUQDZeB4sYOjgk6KK9wzMA&usqp=CAU" group-title="Sports",Sky Sport Premier League-Aus
 http://extraott.com/live/6945574629/7169628753/710941.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
