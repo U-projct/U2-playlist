@@ -82,7 +82,7 @@ https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|user-agent=
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 group-title="BAL-BALAN TV"  tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",PeacockTV Premier League
+#EXTINF:-1 group-title="BAL-BALAN TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAWrv24-5H9mA7xMgeL1ABv0Xd-R0J7xSGg&s",PeacockTV Premier League
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
@@ -706,6 +706,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wn
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1024px-Sky_Sport_F1_-_Logo_2020.svg.png?20200924143759" group-title="Sports", Sky Sport F1 HD - Italy
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/308
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 group-title="Sports"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAWrv24-5H9mA7xMgeL1ABv0Xd-R0J7xSGg&s",PeacockTV Premier League
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
 
