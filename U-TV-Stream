@@ -52,11 +52,12 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/3HW.png" group-title="BAL-BALAN TV",Supersports Premier League HD 
+#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/3HW.png" group-title="BAL-BALAN TV",Supersport Premier League HD 
 http://ktv.im:8080/fullpack15months354/213907856/21356 
-
-#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SUPERSPORTS LALIGA HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/7HW.png" group-title="BAL-BALAN TV",Supersports LaLiga HD 
+#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SUPERSPORTS LALIGA HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/7HW.png" group-title="BAL-BALAN TV",Supersport LaLiga HD 
 http://ktv.im:8080/fullpack15months354/213907856/21355
+#EXTINF:-1 tvg-id="SS Football" tvg-name="SUPERSPORTS FOOTBALL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4h9u_OA3a5IOXK5b41XO2RWBHXlMlOiAdP5Rridt-fXfZ7ameG04iik2I&s=10" group-title="BAL-BALAN TV",Supersport Football HD
+http://ktv.im:8080/fullpack15months354/213907856/21357
 
 #EXTINF:-1 group-title="BAL-BALAN TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1d/HUB_Premier_1.png/revision/latest/scale-to-width-down/250?cb=20240218063504&path-prefix=vi", Hub Premier 1
 http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
@@ -415,10 +416,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports",SPOTV 2
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/3HW.png" group-title="Sports",Supersports Premier League HD 
+#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/3HW.png" group-title="Sports",Supersport Premier League HD 
 http://ktv.im:8080/fullpack15months354/213907856/21356
-#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SUPERSPORTS LALIGA HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/7HW.png" group-title="Sports",Supersports LaLiga HD 
+#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SUPERSPORTS LALIGA HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/7HW.png" group-title="Sports",Supersport LaLiga HD 
 http://ktv.im:8080/fullpack15months354/213907856/21355
+#EXTINF:-1 tvg-id="SS Football" tvg-name="SUPERSPORTS FOOTBALL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4h9u_OA3a5IOXK5b41XO2RWBHXlMlOiAdP5Rridt-fXfZ7ameG04iik2I&s=10" group-title="Sports",Supersport Football HD
+http://ktv.im:8080/fullpack15months354/213907856/21357
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6P5TEvw2kEswgxfip2nOlOoJWD6Hn-70W3A&usqp=CAU" group-title="Sports",DAZN 1 Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
