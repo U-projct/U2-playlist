@@ -15,12 +15,11 @@ https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="BAL-BALAN TV", NOWSPORT PL 1 FHD 
-http://besttv.club:8080/ademudeneindhoven/68:72:c3:69:b3:3c/495006 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="BAL-BALAN TV", NOWSPORT PL 2 FHD 
-http://besttv.club:8080/ademudeneindhoven/68:72:c3:69:b3:3c/495005 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="BAL-BALAN TV", NOWSPORT PL 3 FHD 
-http://besttv.club:8080/ademudeneindhoven/68:72:c3:69:b3:3c/495004
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="BAL-BALAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",MY: Astro Premier League
+http://15.235.144.67:35461/654321/123456/11243
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="BAL-BALAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",MY: Astro Premier League 2
+http://15.235.144.67:35461/654321/123456/971
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6P5TEvw2kEswgxfip2nOlOoJWD6Hn-70W3A&usqp=CAU" group-title="BAL-BALAN TV",DAZN 1 Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -89,10 +88,10 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTINF:-1 group-title="Bal-balan Indonesia" tvg-logo="https://i.ibb.co.com/3p7TW6T/1000121937.jpg", Sportstars 2 HD 🇲🇨
+#EXTINF:-1 group-title="Bal-balan Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png", Sportstars 2 HD 🇲🇨
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 group-title="Bal-balan Indonesia" tvg-logo="https://i.ibb.co.com/4VJMyG9/1000121938.jpg",Sportstars 3 HD 🇲🇨
+#EXTINF:-1 group-title="Bal-balan Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",Sportstars 3 HD 🇲🇨
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
@@ -373,16 +372,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-#EXTINF:-1 group-title="Sports" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/FzMQkfS/1000121935.jpg",Sportstars 1 HD 🇮🇩
+#EXTINF:-1 group-title="Sports" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sportstars 1 HD 🇮🇩
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTINF:-1 group-title="Sports" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/3p7TW6T/1000121937.jpg",Sportstars 2 HD 🇮🇩
+#EXTINF:-1 group-title="Sports" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstars 2 HD 🇮🇩
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/4VJMyG9/1000121938.jpg",Sportstars 3 HD 🇮🇩
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",Sportstars 3 HD 🇮🇩
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
@@ -459,17 +458,17 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/AstroPremierLeague.m3u8
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",MY: Astro Premier League
+http://15.235.144.67:35461/654321/123456/11243
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257",Astro Premier League 2
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/AstroPremierLeague2.m3u8
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",MY: Astro Premier League 2
+http://15.235.144.67:35461/654321/123456/971
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro GrandStand
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/AstroGrandStand.m3u8
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",MY: Astro GrandStand
+http://51.79.248.110:888/Lyana/Lyana/13461
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png",Astro Football
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/AstroFootBall.m3u8
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png",MY: Astro Football
+http://51.79.248.110:888/Lyana/Lyana/13464
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
