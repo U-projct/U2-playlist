@@ -89,9 +89,9 @@ https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|user-agent=
 #EXTINF:-1 group-title="BAL-BALAN TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAWrv24-5H9mA7xMgeL1ABv0Xd-R0J7xSGg&s",PeacockTV Premier League
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="BAL-BALAN TV",ESPN ~ Brazil
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMDHf-MbVpYQ6-ES_fs0KMFsDQfIGSMlj2ghztPTM9yiV-HXvigkKHUVU&s=10" group-title="BAL-BALAN TV",ESPN ~ Brazil
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="BAL-BALAN TV",ESPN 4 ~ Brazil
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_HFUJ07pf_OFQB8QHdSbOjJEYg6oYA6sOw&usqp=CAU" group-title="BAL-BALAN TV",ESPN 4 ~ Brazil
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143
 
 ====== Bal-balan AFF ======
@@ -783,9 +783,9 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/308
 #EXTINF:-1 group-title="Sports"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAWrv24-5H9mA7xMgeL1ABv0Xd-R0J7xSGg&s",PeacockTV Premier League
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="Sports",ESPN ~ Brazil
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMDHf-MbVpYQ6-ES_fs0KMFsDQfIGSMlj2ghztPTM9yiV-HXvigkKHUVU&s=10" group-title="Sports",ESPN ~ Brazil
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="Sports",ESPN 4 ~ Brazil
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_HFUJ07pf_OFQB8QHdSbOjJEYg6oYA6sOw&usqp=CAU" group-title="Sports",ESPN 4 ~ Brazil
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143
 
 
