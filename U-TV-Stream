@@ -94,16 +94,18 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
 #EXTINF:-1  tvg-logo="https://futbollibre.futbol/tv9/img/logo-canal/ESPN_4.webp" group-title="BAL-BALAN TV",ESPN 4 ~ Brazil
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143
 
-====== Bal-balan AFF ======
+====== Bal-balan Indonesia ======
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTINF:-1 group-title="Bal-balan AFF 🇲🇨 vs 🇵🇭" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI2PwVUrrX8Vz4VKK8WOPeh_Uk6Mhfxtbe9w&usqp=CAU", Sportstars 2 HD 🇲🇨
+#EXTINF:-1 group-title="Bal-balan Indonesia" tvg-logo="https://i.ibb.co.com/3p7TW6T/1000121937.jpg", Sportstars 2 HD 🇲🇨
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Bal-balan Indonesia",Indosiar-BRI Liga 1
+http://opplex.tv:8080/live/starmpk/mpk1234/350972.ts
 
-======== Balapan TV - MOTO GP & F1 ========
+===== Balapan TV - MOTO GP & F1 =====
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
