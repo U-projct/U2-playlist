@@ -73,7 +73,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Bal-balan Indonesia",Indosiar-BRI Liga 1
 http://opplex.tv:8080/live/starmpk/mpk1234/350972.ts
 
-===== Balapan TV - MOTO GP & F1 =====
+======== Balapan TV - MOTO GP & F1 ========
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
