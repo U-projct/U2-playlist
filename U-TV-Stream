@@ -1209,7 +1209,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 <=============== HBO-TRANSVISION ===============>
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO-TRANSVISION",HBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/440px-HBO_logo.svg.png" group-title="HBO-TRANSVISION",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1257,7 +1257,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 #EXTINF:-1 group-title="Premium Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/300px-Logo_MAX_horizontal_on_white_.jpg",Maxstream
 https://cdn12jtedge.indihometv.com/joss/194/maxstream/chunklist_w1411358401_b844100_sleng.m3u8?enc=&uid=&exp=
 
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://w7.pngwing.com/pngs/523/503/png-transparent-universal-s-studio-universal-television-channel-studio-miscellaneous-television-text.png" group-title="Premium Movies" tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/220px-Logo_Studio_Universal.svg.png",Studio Universal
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/220px-Logo_Studio_Universal.svg.png" group-title="Premium Movies" tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/220px-Logo_Studio_Universal.svg.png",Studio Universal
 https://cdn12jtedge.indihometv.com/joss/130/studiouniversal/chunklist_w1519534483_b444100_sleng.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
