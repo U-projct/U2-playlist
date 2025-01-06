@@ -304,7 +304,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="Sports",1.LIVERPOOL FC TV
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/30.ts
 
@@ -538,7 +537,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="Sports",SONY SPORTS TEN 1 
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63537
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -548,8 +546,6 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63537
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="Sports",SONY SPORTS TEN 2
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63536
-
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -558,7 +554,6 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63536
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWNbDTu.png" group-title="Sports",SONY SPORTS TEN 3
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63535
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -567,11 +562,9 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63535
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="Sports",SONY SPORTS TEN 4
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1441526
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="Sports",SONY SPORTS TEN 5
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=487335&extension=m3u8
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63499
 
 #EXTINF:-1 group-title="Sports" tvg-id="SSC 1" tvg-logo="http://guki.my.id/logo/sports/sc1.jpg",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
@@ -722,6 +715,11 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
 #EXTINF:-1  tvg-logo="https://futbollibre.futbol/tv9/img/logo-canal/ESPN_4.webp" group-title="Sports",ESPN 4 ~ Brazil
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/NBC_Sports_2023_%28with_NBC_wordmark%29.svg/440px-NBC_Sports_2023_%28with_NBC_wordmark%29.svg.png",NBC Sport Peacock
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 
 ============= CHAMPIONS TV 🇮🇩 ==============
@@ -1015,129 +1013,9 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/-PadjadjaranTVLogo_Baru.jpg" group-title="Local Channels",PJTV Bandung
 https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
--------- SPORTS - UK ----------
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1024px-TNT_Sports_%282023%29.svg.png" group-title="Sports - UK",TNT SPORTS 1 HD [UK]
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461005
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1024px-TNT_Sports_%282023%29.svg.png" group-title="Sports - UK",TNT SPORTS 2 HD [UK]
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461006
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1024px-TNT_Sports_%282023%29.svg.png" group-title="Sports - UK",TNT SPORTS 3 HD [UK]
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462040
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1024px-TNT_Sports_%282023%29.svg.png" group-title="Sports - UK",TNT SPORTS 4 HD [UK]
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462041
-
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] SkySport Racing HD
-http://supersonictv.live:8080/686554/799757/78145
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] SkySports Action
-http://supersonictv.live:8080/686554/799757/78146
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] SkySports Arena HD
-http://supersonictv.live:8080/686554/799757/78147
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] SkySports Cricket
-http://supersonictv.live:8080/686554/799757/78148
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] SkySports F1
-http://supersonictv.live:8080/686554/799757/78149
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] SkySports Football HD
-http://supersonictv.live:8080/686554/799757/78150
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] SkySports Golf HD
-http://supersonictv.live:8080/686554/799757/78151
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] SkySports Main Events HD
-http://supersonictv.live:8080/686554/799757/78152
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] SkySports MIX
-http://supersonictv.live:8080/686554/799757/78153
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] SkySports News HD
-http://supersonictv.live:8080/686554/799757/78154
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] SkySports Premier League HD
-http://supersonictv.live:8080/686554/799757/78155
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] SkySports Racing
-http://supersonictv.live:8080/686554/799757/78156
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] BT Sport ESPN HD
-http://supersonictv.live:8080/686554/799757/40440
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] BT Sports 1 UHD
-http://supersonictv.live:8080/686554/799757/40441
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] BT Sports 2 UHD
-http://supersonictv.live:8080/686554/799757/40442
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] BT Sports 3 UHD
-http://supersonictv.live:8080/686554/799757/40443
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] BT Sport Extra 1 (Live Match Only)
-http://supersonictv.live:8080/686554/799757/40444
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] BT Sport Extra 2 (Live Match Only)
-http://supersonictv.live:8080/686554/799757/40445
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] BT Sport Extra 3 (Live Match Only)
-http://supersonictv.live:8080/686554/799757/40446
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] BT Sport Extra 4 (Live Match Only)
-http://supersonictv.live:8080/686554/799757/40447
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] BT Sports Extra 5 (live match only)
-http://supersonictv.live:8080/686554/799757/40448
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] Eir Sport 1 HD
-http://supersonictv.live:8080/686554/799757/40449
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] Eir Sport 2
-http://supersonictv.live:8080/686554/799757/40450
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] Eurosport 1 FHD
-http://supersonictv.live:8080/686554/799757/40451
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] Eurosport 2 FHD VIP
-http://supersonictv.live:8080/686554/799757/40452
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",[UK] BoxNation HD
-http://supersonictv.live:8080/686554/799757/40439
-
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | EUROSPORTS 1 HD
-http://shacktv.com:8080/803comb/4159355/21731
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | EUROSPORTS 2 HD
-http://shacktv.com:8080/803comb/4159355/21730
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | RACING TV HD
-http://shacktv.com:8080/803comb/4159355/21729
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | TNT SPORTS 1 FHD
-http://shacktv.com:8080/803comb/4159355/21812
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | TNT SPORTS 2 FHD
-http://shacktv.com:8080/803comb/4159355/21811
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | TNT SPORTS 3 FHD
-http://shacktv.com:8080/803comb/4159355/21810
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | TNT SPORTS 4 HD
-http://shacktv.com:8080/803comb/4159355/21818
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | SKY SPORTS ACTION HD
-http://shacktv.com:8080/803comb/4159355/21795
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | SKY SPORTS+
-http://shacktv.com:8080/803comb/4159355/21716
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | SKY SPORTS CRICKET HD
-http://shacktv.com:8080/803comb/4159355/21796
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | SKY SPORTS F1 HD
-http://shacktv.com:8080/803comb/4159355/21792
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | SKY SPORTS FOOTBALL
-http://shacktv.com:8080/803comb/4159355/21717
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | SKY SPORTS GOLF
-http://shacktv.com:8080/803comb/4159355/21788
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | SKY SPORTS MIX HD
-http://shacktv.com:8080/803comb/4159355/21785
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK", 🇬🇧 | SKY SPORTS NEWS HD
-http://shacktv.com:8080/803comb/4159355/21784
-
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",SkySPORTS MAINEVENT (xyz)
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243192 
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",SKYSPORTS PREMIERLEAGUE (xyz)
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243193 
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",SkySPORTS CRICKET (xyz)
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243194 
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",SkySPORTS GOLF (xyz)
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243195 
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",SkySPORTS F1 (xyz)
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243196 
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",SkySports Tennis (xyz)
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/259828 
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",SkySPORTS ACTION (xyz)
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243197 
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",SkySPORTS PLUS (xyz)
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243198 
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",SkySPORTS FOOTBALL (xyz)
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243199 
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",SkySPORTS NEWS (xyz)
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243200 
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",SkySPORTS RACING (xyz)
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243201 
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",SkySPORTS MIX (xyz)
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243202 
-#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="Sports - UK",SPORTS BOX OFFICE (xyz)
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243203
 
 <================ Knowledge & Documentary ==========================>
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
@@ -1145,25 +1023,10 @@ http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243203
 #EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png" group-title="Knowledge & Documentary",BBC Earth
 https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/022/50022-SNAPSHOT-l.png" group-title="Knowledge & Documentary",History HD
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/History.m3u8
-
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge & Documentary",Discovery Channel 
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/DiscoveryChannel.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="Knowledge & Documentary",Discovery Asia
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/DiscoveryAsia.m3u8
-
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Animal Planet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="Knowledge & Documentary",Animal Planet
 https://cdn13jtedge.indihometv.com/joss/194/animalplanet/chunklist_w497659271_b844100_sleng.m3u8?enc=&uid=&exp=
-
-#EXTINF:-1 tvg-url="" tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Knowledge & Documentary",HGTV 
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HGTV.m3u8
-
-#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Knowledge & Documentary",DMAX TV 
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/DMax.m3u8
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1231,21 +1094,28 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO - TRANSVISION",HBO Signature
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adapad" group-title="HBO - TRANSVISION",Warner TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO - TRANSVISION",Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
 <======================== Premium Movies ==========================>
+
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1465,6 +1335,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
 
 <=================== Entertainment & Lifestyle =============================>
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="Entertainment & LifeStyle",Warner TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1723,18 +1604,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 #EXTINF:-1 group-title="News - Mancanegari" tvg-id="Channel News Asia - [Channel 330].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/f36bdbf0/d7d8_r32.jpg",CNA
 https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec5705bb82f3e66b054de048287fd3a4:7819a6f6427b7c7764a514abe8173b02
-#EXTINF:-1 group-title="News - Mancanegari" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/2560px-Russia-Today-Logo.svg.png",Rusia Today
-https://cempedak-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/CNA%20LOGO%20-horizontal%20-%20on%20light%20background.png" group-title="News - Mancanegari",Channel News Asia
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 
 
 
-<================================================= Singapore TV ======================================>
+<============= Singapore TV =============>
+
+
 
 #EXTINF:-1 group-title="Singapore TV" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 5 (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
