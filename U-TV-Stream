@@ -257,10 +257,6 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch112.m3u8
 
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwkr5wfBchl_3CeTd9i37tUtXnwhdtc9eag&usqp=CAU" group-title="Indonesia Channels",Indonesiana TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia Channels",TV Kesehatan
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
@@ -701,8 +697,22 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/NBC_Sports_2023_%28with_NBC_wordmark%29.svg/440px-NBC_Sports_2023_%28with_NBC_wordmark%29.svg.png",NBC Sport Peacock
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
+#EXTINF:-1 channel-id="samsung-GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4513" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=130867781972_image-header_pRow_1644417574000" group-title="Sports" , RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-============= CHAMPIONS TV 🇮🇩 ==============
+#EXTINF:-1 channel-id="samsung-GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4513" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=130867781972_image-header_pRow_1644417574000" group-title="Sports" , RedBull TV 2
+https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Sports",SPORTV•1~PT 
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167742.ts
+#EXTINF:-1 tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Sports",SPORTV•2~PT 
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167743.ts
+#EXTINF:-1 tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Sports",SPORTV•4~PT 
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
+
+
+
+============= 'CHAMPIONS TV 🇮🇩 ==============
 
 
 #EXTINF:-1 group-title="CHAMPIONS TV 🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxycQSbQaO6_S8bTBZydI8AMbDSvYTCERkw&usqp=CAU", ChampionsTV 1 🇮🇩
@@ -744,6 +754,51 @@ https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9182
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ca1cf7890604c98959160aa80a8fc3e:4a545ab7495d40f186a5bf3d88d47802
 https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9183
+
+
+```````` ISLAMIC TV ````````
+
+#EXTINF:-1 group-logo="https://i.ibb.co/ZJ9rQxW/cat-religion.png",
+
+#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-name="" tvg-logo="https://i.ibb.co/1zFVnXg/makkahlive.png" group-title="ISLAMIC TV", MAKKAH LIVE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5321d2a153ab463dba1c60b9068165c6:6c8194b07b1f2d114feb594d2ae6ee51
+https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3zB0gVk/madinahlive.png" group-title="ISLAMIC TV", MADINAH LIVE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3084383b39c3452b81ee0535bd381dee:bf25afb0796a4a73f127f056c206800d
+https://sunna-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zSgt2KP/mqtv.png" group-title="ISLAMIC TV", MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1dpHWQq/tv9.png" group-title="ISLAMIC TV", TV9 NUSANTARA
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-ID="Rodja TV" tvg-name="Rodja TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="ISLAMIC TV",Rodja TV
+https://cdngb196.indihometv.com/joss/130/rodjatv/chunklist_w716584368_b1004100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Surau TV" tvg-name="Surau TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SurauTV.png" group-title="ISLAMIC TV", Surau TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+
+#EXTINF:-1 tvg-id="Wesal TV" tvg-name="Wesal TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Wesal_TV.png" group-title="ISLAMIC TV", Wesal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+#EXTINF:-1 tvg-id="medstv.id" tvg-name="medstv" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Meds-TV.png" group-title="ISLAMIC TV", MedsTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch23.m3u8
+
+#EXTINF:-1 tvg-id="Ashiil TV" tvg-name="Ashiil TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHURA-4ChbvYMUwCxptqMa-R7kUeIc6TzsVbL0ifpmtrywMgLzitFcWnD541MP11CeFoBYUC8MOPUzT6avozH9JtZ6H257q7AYMDyzm8NI_Bw6LRxfbVes3WETcumnzQB3lmHXvAA3sPm9/s1600/ashiil-tv-channel-logo.png" group-title="ISLAMIC TV",Ashill TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+
 
 
 <=======================Local Channels===============>
@@ -909,15 +964,6 @@ https://63b2dc7196c38.streamlock.net:1937/ch9/myStream/chunklist_w1718673554.m3u
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png" group-title="Local Channels",Timor TV
-https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/atambua.png" group-title="Local Channels",Atambua TV
 https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/chunklist_w1110314352.m3u8
 
@@ -1005,7 +1051,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Animal Planet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="Knowledge & Documentary",Animal Planet
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Animal Planet" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Animal_Planet_HD.png" group-title="Knowledge & Documentary",Animal Planet
 https://cdn13jtedge.indihometv.com/joss/194/animalplanet/chunklist_w497659271_b844100_sleng.m3u8?enc=&uid=&exp=
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1042,6 +1088,34 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+
+#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png" group-title="Knowledge & Documentary", REAL WILD 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/History.png" group-title="Knowledge & Documentary",History
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
+https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-1995.png" group-title="Knowledge & Documentary",Discovery
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+
+#EXTINF:0 tvg-id="Discovery Asia" tvg-name="" group-title="Knowledge & Documentary" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_170_122",Discovery Asia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
 
 <=============== HBO - TRANSVISION ===============>
@@ -1128,8 +1202,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.m
 #EXTINF:-1 tvg-id="Bioskop Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="Premium Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",Bioskop Indonesia 
 https://cdn12jtedge.indihometv.com/joss/130/bioskopindonesia/chunklist_w1648235662_b444100_sleng.m3u8?enc=&uid=&exp=
 
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://i.imgur.com/bNd43gT.png", Bioskop Indonesia 🇮🇩
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="Premium Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Chinese_Drama_Logo.png/revision/latest?cb=20190921115414",Chinese Drama
 https://cdn12jtedge.indihometv.com/joss/130/chinesedrama/chunklist_w753421962_b494100_sleng.m3u8?enc=&uid=&exp=
+
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://i.ibb.co.com/Drnmjtb/Chinese-Drama.jpg",Chinese Drama HD
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ChineseDrama.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Premium Movies" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2016/03/30/573f546f-9605-45d1-8596-e2d7dda3253f_43.jpg?w=600&q=90",FLIK 
 https://cdn09jtedge.indihometv.com/joss/133/flik/chunklist_w1932334549_b444100_sleng.m3u8
@@ -1405,12 +1489,22 @@ https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeSt
 https://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 
-<=============== Kids Channels =====================>
+<=============== 'Kids Channels =====================>
 
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids" tvg-id="Cartoon Network" , Cartoon Network
 https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/chunklist_w381274373_b1044100_sleng.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440",Horee!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://kametv.my.id/pdx/play.m3u8?id=6397&type=hls
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png",Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://kametv.my.id/pdx/play.m3u8?id=8237&type=hls
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.pinimg.com/736x/7b/ae/af/7baeafff7f408e5be7136eb1e62d60a8.jpg",Cartoonito
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Cartoonito.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg/1024px-Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg.png",Davinci Kids
 https://cdn09jtedge.indihometv.com/joss/134/davinci/chunklist_w1858595559_b494100_sleng.m3u8
@@ -1496,7 +1590,27 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
 
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="Kids" , Baby Shark TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="Kids" , Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fff44-b258-11ee-9039-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co/tJX1NDf/kidoodletv.png" tvg-chno="" group-title="Kids" , KIDOODLE TV
+https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qNpjCYr/kidsflix.png" group-title="Kids", KIDSFLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 channel-id="pluto-60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://i.ibb.co/QkNWGtG/legokidstv.png" tvg-chno="3210" group-title="Kids" , LEGO Kids TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a0043a-b258-11ee-b6c7-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca05fe1-d777-48d3-80f2-58183408d1d1&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="pluto-60fb053712f22a0007ff14d2" tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://i.ibb.co/3BDrBvR/transformers.png" tvg-chno="3200" group-title="Kids" , Transformers TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a002fa-b258-11ee-a982-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc17f96c-eab5-42c7-bb41-6e9a3c683eeb&userId=&serverSideAds=true
+
+
 <====================== News - Mancanegari ========================>
+
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
