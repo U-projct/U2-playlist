@@ -113,6 +113,10 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 
+#EXTINF:-1 tvg-id="USA Net" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/USA-Net.png" group-title="BAL-BALAN TV",USA Network Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://defaultgen.com:3050/diana.rogers47@yahoo.com/pUnv52tkuM/649437
+
 
 ====== 'Bal-balan Indonesia ======
 
@@ -146,8 +150,15 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/308
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3d3nHBtul54cHUXNx5DR9QMLCbkdHU43LA&usqp=CAU" group-title="Balapan TV - MOTO GP & F1", Sky Sport MotoGP HD - Italy
 http://extraott.com:80/live/3969424152/3723991250/35386.m3u8 
 
+#EXTINF:-1 tvg-id="[IT] Sky Sport MotoGP" tvg-logo="https://ridertua.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2017/09/motogp-logo.png" group-title="Balapan TV",Sky Sport MotoGP~Italy
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
+
 #EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysi8jGCxlR5_MNvGv2YQCg0KDe-J9w7c83HFx6nZM0HeqZtq3UPzumcGM&s=10" tvg-id="98" , Motorvision+ TV
 http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 tvg-id="MtrSpt1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MTRSPT.png" group-title="Balapan TV - MOTO GP & F1",MtrSpt1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MtrSpt1.m3u8
 
 
 ============ Indonesia Channels =============
@@ -333,11 +344,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 4 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1595px-Logo_bein_sports_4.png", beIN SPORTS 4 ID 🇮🇩
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305", beIN SPORTS 5 ID 🇮🇩
-https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -423,12 +429,6 @@ http://15.235.144.67:35461/654321/123456/11243
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",MY: Astro Premier League 2
 http://15.235.144.67:35461/654321/123456/971
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",MY: Astro GrandStand
-http://51.79.248.110:888/Lyana/Lyana/13461
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png",MY: Astro Football
-http://51.79.248.110:888/Lyana/Lyana/13464
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -721,13 +721,13 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 
-EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAvF9VkjhfQE3aQaDOPLoXoub6Kk2mKxm9AwXOjLX_f0VY6e_4I5Ke9kQD&s=10" group-title="Sports",DAZN 1 Portugal
+#EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAvF9VkjhfQE3aQaDOPLoXoub6Kk2mKxm9AwXOjLX_f0VY6e_4I5Ke9kQD&s=10" group-title="Sports",DAZN 1 Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
- 
+
 #EXTINF:-1 tvg-id="DAZN 2.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlAjv3GLRmasxKH17ns-VXiTfqhL5nSTEW2OiOe7yIdWvuxBBXqaIxxI3m&s=10" group-title="Sports",DAZN 2 Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -763,6 +763,49 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
 
+#EXTINF:-1 tvg-id="USA Net" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/USA-Net.png" group-title="Sports",USA Network Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="[IT] Sky Sport MotoGP" tvg-logo="https://ridertua.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2017/09/motogp-logo.png" group-title="Sports",Sky Sport MotoGP~Italy
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Go3Sport Open" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="Sports",Go3 Sport Open
+#http://lb.wisp.cat/lb0/TV3_SPORT_OPEN_HD/video.m3u8?token=7jfxcz8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
+https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
+
+
+#EXTINF:-1 tvg-id="Go3Sport 1" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="Sports",Go3 Sport 1
+#http://lb.wisp.cat/lb0/LT_VIASAT_SPORT_BALTIC_HD/video.m3u8?token=7jfxcz8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
+https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
+
+
+
+#EXTINF:-1 tvg-id="Go3Sport 2" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="Sports",Go3 Sport 2
+#http://lb.wisp.cat/lb0/SDI_TVPLAY_SPORTS_PLUS/video.m3u8?token=7jfxcz8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
+https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
+
+
+#EXTINF:-1 tvg-id="Go3Sport 3" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport3.png" group-title="Sports",Go3 Sport 3
+#http://lb.wisp.cat/lb0/TV3_Sport3_HD/video.m3u8?token=7jfxcz8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
+
+#EXTINF:-1 tvg-id="MtrSpt1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MTRSPT.png" group-title="Sports",MtrSpt1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MtrSpt1.m3u8
 
 
 ============= 'CHAMPIONS TV 🇮🇩 ==============
@@ -1237,6 +1280,12 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 
 
 <======================== Premium Movies ==========================>
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png", superrix 🇮🇩
+https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
