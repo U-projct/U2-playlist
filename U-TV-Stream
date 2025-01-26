@@ -150,7 +150,7 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/308
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3d3nHBtul54cHUXNx5DR9QMLCbkdHU43LA&usqp=CAU" group-title="Balapan TV - MOTO GP & F1", Sky Sport MotoGP HD - Italy
 http://extraott.com:80/live/3969424152/3723991250/35386.m3u8 
 
-#EXTINF:-1 tvg-id="[IT] Sky Sport MotoGP" tvg-logo="https://ridertua.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2017/09/motogp-logo.png" group-title="Balapan TV",Sky Sport MotoGP~Italy
+#EXTINF:-1 tvg-id="[IT] Sky Sport MotoGP" tvg-logo="https://ridertua.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2017/09/motogp-logo.png" group-title="Balapan TV - MOTO GP & F1",Sky Sport MotoGP~Italy
 http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
 
 #EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysi8jGCxlR5_MNvGv2YQCg0KDe-J9w7c83HFx6nZM0HeqZtq3UPzumcGM&s=10" tvg-id="98" , Motorvision+ TV
