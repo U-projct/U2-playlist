@@ -271,6 +271,16 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/6413
 #EXTINF:-1 tvg-id="1449" tvg-name="Auto Motor Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Auto_motor_sport_channel_logo.png?20160501083838" group-title="Balapan TV - MOTO GP & F1" ,Auto Motor Sport
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1449
 
+#EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Racing_2018.png" , Dubai Racing 
+
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8
+
+
+#EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Racing_2018.png" , Dubai Racing 2 
+
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8
+
+
 
 ============ 'Indonesia Channels =============
 
@@ -1171,6 +1181,16 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png?v=1957825194066352040" group-title="Sports" ,Sky Sport Premier League
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53652
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Racing_2018.png" , Dubai Racing 
+
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Racing_2018.png" , Dubai Racing 2 
+
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8
+
+
 ============= 'CHAMPIONS TV 🇮🇩 ==============
 
 
@@ -1254,6 +1274,16 @@ https://flv.intechmedia.net/live/ch23.m3u8
 #EXTINF:-1 tvg-id="Ashiil TV" tvg-name="Ashiil TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHURA-4ChbvYMUwCxptqMa-R7kUeIc6TzsVbL0ifpmtrywMgLzitFcWnD541MP11CeFoBYUC8MOPUzT6avozH9JtZ6H257q7AYMDyzm8NI_Bw6LRxfbVes3WETcumnzQB3lmHXvAA3sPm9/s1600/ashiil-tv-channel-logo.png" group-title="ISLAMIC TV",Ashill TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+
+
+#EXTINF:-1 group-title="ISLAMIC TV" tvg-id="MuhammadiyahTV.id" tvg-logo="https://i.ibb.co.com/RB9CtH1/tvmu.png",TVMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://e.siar.us/live/tvmu.m3u8
+
+
+#EXTINF:-1 group-title="ISLAMIC TV" tvg-id="madanitv.id" tvg-logo="https://i.ibb.co.com/BLLK7pT/madanitv.png",Madani TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
 
 
@@ -2637,7 +2667,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
 
 
-<================== Internet Radio ==========================>
+<======================= Internet Radio ===============================>
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
