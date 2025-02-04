@@ -62,7 +62,7 @@ http://ktv.im:8080/fullpack15months354/213907856/21357
 #EXTINF:-1 group-title="BAL-BALAN TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAWrv24-5H9mA7xMgeL1ABv0Xd-R0J7xSGg&s",PeacockTV Premier League
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/40/Espn_internacional.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180704231642&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN-1~ Brazil
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhpgZ9bYZXJQPoy-9KUPOFbDhSX-4ytDCYScsnDUoGEIszZU-MVErhKCY&s=10" group-title="BAL-BALAN TV",ESPN-1~ Brazil
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222338&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN-4 ~ Brazil
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143
@@ -195,6 +195,28 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
+
+#EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png?v=1957825194066352040" group-title="BAL-BALAN TV" ,Sky Sport Premier League
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53652
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmci4zeFnWZJZmewBr0CROtiviOKG5VHGSYRIJ78ZWyzHLLUNKKZgBgGd&s=10" group-title="Sports", Sport 1 CZ
+
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdIpJeW-VmL8NEhbQqHrM1RdLxSpFl8IN_5Xpn2siVGW1Yg_9fFJZYu3U&s=10" group-title="Sports", Sport 2 CZ
+
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
 
 
 ====== 'Bal-balan Indonesia ======
@@ -657,7 +679,7 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/308
 #EXTINF:-1 group-title="Sports"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAWrv24-5H9mA7xMgeL1ABv0Xd-R0J7xSGg&s",PeacockTV Premier League
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/40/Espn_internacional.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180704231642&path-prefix=pt-br" group-title="Sports",ESPN-1 ~ Brazil
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhpgZ9bYZXJQPoy-9KUPOFbDhSX-4ytDCYScsnDUoGEIszZU-MVErhKCY&s=10" group-title="Sports",ESPN-1 ~ Brazil
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222338&path-prefix=pt-br" group-title="Sports",ESPN-4 ~ Brazil
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143
@@ -1058,14 +1080,14 @@ https://xyzdddd.mizhls.ru/lb/premium467/index.m3u8|Origin=https://claplivehdplay
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/FsfkM27D/20230719-171756.png" group-title="Sports",Prima Sport 1 
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/52/Prima_Sport_1_%282022-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20240205121905" group-title="Sports",Prima Sport 1 
 
 #EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
 https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.postimg.cc/Y2v174P6/20230719-171833.png" group-title="Sports",Prima Sport 2 
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a9/Prima_Sport_2_%282022-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20240205122246" group-title="Sports",Prima Sport 2 
 
 #EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
 
@@ -1074,14 +1096,14 @@ https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://i.postimg.cc/qRhgPK7g/20230719-171858.png" group-title="Sports",Prima Sport 3 
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/9a/Prima_Sport_3_%282022-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20240205122802" group-title="Sports",Prima Sport 3 
 
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
 https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://i.postimg.cc/gcyGns1m/20230719-171921.png" group-title="Sports",Prima Sport 4 
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a3/Prima_Sport_4_%282022-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20240205123200" group-title="Sports",Prima Sport 4 
 
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
@@ -1143,7 +1165,11 @@ https://xyzdddd.mizhls.ru/lb/premium635/index.m3u8|Origin=https://claplivehdplay
 
 https://xyzdddd.mizhls.ru/lb/premium636/index.m3u8|Origin=https://claplivehdplay.ru
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/3YCTrzDq/1000188444.jpg" group-title="Sports",TV 4 Sports
+https://hls.pokertvfa.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png?v=1957825194066352040" group-title="Sports" ,Sky Sport Premier League
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53652
 
 ============= 'CHAMPIONS TV 🇮🇩 ==============
 
