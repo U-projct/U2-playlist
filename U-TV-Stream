@@ -196,7 +196,7 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
 
-#EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png?v=1957825194066352040" group-title="BAL-BALAN TV" ,Sky Sport Premier League
+#EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" group-title="BAL-BALAN TV" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png?v=1957825194066352040",Sky Sport Premier League
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53652
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmci4zeFnWZJZmewBr0CROtiviOKG5VHGSYRIJ78ZWyzHLLUNKKZgBgGd&s=10" group-title="BAL-BALAN TV", Sport 1 CZ
@@ -1175,10 +1175,10 @@ https://xyzdddd.mizhls.ru/lb/premium635/index.m3u8|Origin=https://claplivehdplay
 
 https://xyzdddd.mizhls.ru/lb/premium636/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/27pkDCY5/1000188444.jpg" group-title="Sports",TV 4 Sports
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/27pkDCY5/1000188444.jpg" ,TV 4 Sports
 https://hls.pokertvfa.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png?v=1957825194066352040" group-title="Sports" ,Sky Sport Premier League
+#EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" group-title="Sports" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png?v=1957825194066352040",Sky Sport Premier League
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53652
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Racing_2018.png" , Dubai Racing 
