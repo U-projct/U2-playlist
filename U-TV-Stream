@@ -199,6 +199,9 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
 #EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png?v=1957825194066352040" group-title="BAL-BALAN TV", Sky Sport Premier League
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53652
 
+#EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png?v=1957825194066352040" group-title="BAL-BALAN TV" ,Skx Sport Premier League
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53652
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmci4zeFnWZJZmewBr0CROtiviOKG5VHGSYRIJ78ZWyzHLLUNKKZgBgGd&s=10" group-title="BAL-BALAN TV", Sport 1 CZ
 
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
