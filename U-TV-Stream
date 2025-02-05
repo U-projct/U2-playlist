@@ -72,13 +72,13 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167742.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1600px-Sport_TV2_%282023%29.svg.png" group-title="BAL-BALAN TV",SPORT•TV 2~PT 
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167743.ts
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1600px-Sport_TV3_%282023%29.svg.png" group-title="Sports",SPORT•TV 3~PT
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1600px-Sport_TV3_%282023%29.svg.png" group-title="BAL-BALAN TV",SPORT•TV 3~PT
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://xyzdddd.mizhls.ru/lb/premium454/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/2560px-Sport_TV4_%282023%29.svg.png" group-title="Sports",SPORT•TV 4~PT
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/2560px-Sport_TV4_%282023%29.svg.png" group-title="BAL-BALAN TV",SPORT•TV 4~PT
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
