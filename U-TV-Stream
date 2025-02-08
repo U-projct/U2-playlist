@@ -166,48 +166,6 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-038/stream.mpd
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-043/stream.mpd
 
 
-#EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAvF9VkjhfQE3aQaDOPLoXoub6Kk2mKxm9AwXOjLX_f0VY6e_4I5Ke9kQD&s=10" group-title="BAL-BALAN TV",DAZN 1 Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN 2.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlAjv3GLRmasxKH17ns-VXiTfqhL5nSTEW2OiOe7yIdWvuxBBXqaIxxI3m&s=10" group-title="BAL-BALAN TV",DAZN 2 Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd
- 
-#EXTINF:-1 tvg-id="DAZN 3.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6r4rHHYhqEB5lUA3DlxmziWcOAbyI7whqiFdwJzs687qeEE_8_z8wZYe9&s=10" group-title="BAL-BALAN TV",DAZN 3 Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN 4.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZX-E9pp2x7GlumnT47Ac0SatJvwGWxr6KRAX-CpEoOxJ0X-1uuVIdcrN&s=10" group-title="BAL-BALAN TV",DAZN 4 Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd
- 
-#EXTINF:-1 tvg-id="DAZN 5.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-WbPutaYzORXSCrUyGBs4EVL1Di3iN60Gg&s" group-title="BAL-BALAN TV",DAZN 5 Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
- 
-#EXTINF:-1 tvg-id="DAZN 6.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSihn-dvGlJ4Ts_AXl3mTynBzlAzPCao9RrvltR0ydUJaJyEpv69_17PSpw&s=10" group-title="BAL-BALAN TV",DAZN 6 Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
-
 
 #EXTINF:-1 tvg-id="53652" tvg-name="" tvg-logo="https://i.ibb.co.com/wF8Y9wqh/1000188786.png" group-title="BAL-BALAN TV" ,Sky Sport Premier League
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53652
@@ -248,6 +206,91 @@ https://xyzdddd.mizhls.ru/lb/premium466/index.m3u8|Origin=https://claplivehdplay
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://xyzdddd.mizhls.ru/lb/premium467/index.m3u8|Origin=https://claplivehdplay.ru
 
+
+
+#EXTINF:-1 tvg-name="Cosmote Sport 1 HD" tvg-logo="https://www.advertising.gr/uploads/images/125661/cosmote-tv-savvatokyriako-me-megala-evropaika-ntermbi-medet.jpg?lm=dd0ac14ce13af5287fc2fa824c979a31" group-title="BAL-BALAN TV",Cosmote Sport 1 HD
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium622/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Cosmote Sport 2 HD" tvg-logo="https://www.advertising.gr/uploads/images/125661/cosmote-tv-savvatokyriako-me-megala-evropaika-ntermbi-medet.jpg?lm=dd0ac14ce13af5287fc2fa824c979a31" group-title="BAL-BALAN TV",Cosmote Sport 2 HD
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium623/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Cosmote Sport 3 HD" tvg-logo="https://www.advertising.gr/uploads/images/125661/cosmote-tv-savvatokyriako-me-megala-evropaika-ntermbi-medet.jpg?lm=dd0ac14ce13af5287fc2fa824c979a31" group-title="BAL-BALAN TV",Cosmote Sport 3 HD
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium624/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/knzQ3Py/1000188782.jpg" group-title="BAL-BALAN TV" ,TV 4 Sports
+https://hls.pokertvfa.live/hls/stream.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" tvg-name="Arena Premium 1" tvg-logo="https://i.postimg.cc/c49DNx93/Arena-Sport-1-Premium-RS-logo.png" group-title="BAL-BALAN TV",Arena 1 Premium-Serbia
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
+
+
+#EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" tvg-name="Arena Premium 2" tvg-logo="https://i.postimg.cc/DZxGbZbd/Arena-Sport-2-Premium-RS-logo.png" group-title="BAL-BALAN TV",Arena 2 Premium-Serbia
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+
+https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
+
+
+#EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" tvg-name="Arena Premium 3" tvg-logo="https://i.postimg.cc/XJ1ZYzTs/Arena-Sport-3-Premium-RS-logo.png" group-title="BAL-BALAN TV",Arena 3 Premium-Serbia
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-name="Arena Sport 1" tvg-logo="https://i.postimg.cc/52XQDnv1/Arena-Sport-1-RS-logo.png" group-title="BAL-BALAN TV",Arena Sport 1 - Serbia
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-name="Arena Sport 2" tvg-logo="https://i.postimg.cc/2yH3KZSV/Arena-Sport-2-RS-logo.png" group-title="BAL-BALAN TV",Arena Sport 2 - Serbia
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-name="Arena Sport 3" tvg-logo="https://i.postimg.cc/MGyH84Gk/Arena-Sport-3-RS-logo.png" group-title="BAL-BALAN TV",Arena Sport 3 - Serbia
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+
+#EXTINF:-1 tvg-id="ArenaSportEpl" tvg-name="Arena Sport Premier league" tvg-logo="https://i.postimg.cc/QtJtqpZp/20231118-221613.png" group-title="BAL-BALAN TV",Arena Sport Premier League
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 
 ====== 'Bal-balan Indonesia ======
@@ -973,7 +1016,7 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-016/stream.mpd
 
 
 
-#EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" tvg-name="Arena Premium 1" tvg-logo="https://i.postimg.cc/c49DNx93/Arena-Sport-1-Premium-RS-logo.png" group-title="Sports",Arena Premium 1 Bosnia
+#EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" tvg-name="Arena Premium 1" tvg-logo="https://i.postimg.cc/c49DNx93/Arena-Sport-1-Premium-RS-logo.png" group-title="Sports",Arena Premium 1 Serbia
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -981,7 +1024,7 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-016/stream.mpd
 https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
 
 
-#EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" tvg-name="Arena Premium 2" tvg-logo="https://i.postimg.cc/DZxGbZbd/Arena-Sport-2-Premium-RS-logo.png" group-title="Sports",Arena Premium 2 Bosnia
+#EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" tvg-name="Arena Premium 2" tvg-logo="https://i.postimg.cc/DZxGbZbd/Arena-Sport-2-Premium-RS-logo.png" group-title="Sports",Arena Premium 2 Serbia
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -990,7 +1033,7 @@ https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
 https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
 
 
-#EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" tvg-name="Arena Premium 3" tvg-logo="https://i.postimg.cc/XJ1ZYzTs/Arena-Sport-3-Premium-RS-logo.png" group-title="Sports",Arena Premium 3 Bosnia
+#EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" tvg-name="Arena Premium 3" tvg-logo="https://i.postimg.cc/XJ1ZYzTs/Arena-Sport-3-Premium-RS-logo.png" group-title="Sports",Arena Premium 3 Serbia
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -1001,7 +1044,7 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-name="Arena Sport 1" tvg-logo="https://i.postimg.cc/52XQDnv1/Arena-Sport-1-RS-logo.png" group-title="Sports",Arena Sport 1 Bosnia
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-name="Arena Sport 1" tvg-logo="https://i.postimg.cc/52XQDnv1/Arena-Sport-1-RS-logo.png" group-title="Sports",Arena Sport 1 Serbia
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
@@ -1009,7 +1052,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-name="Arena Sport 2" tvg-logo="https://i.postimg.cc/2yH3KZSV/Arena-Sport-2-RS-logo.png" group-title="Sports",Arena Sport 2 Bosnia
+#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-name="Arena Sport 2" tvg-logo="https://i.postimg.cc/2yH3KZSV/Arena-Sport-2-RS-logo.png" group-title="Sports",Arena Sport 2 Serbia
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
@@ -1017,7 +1060,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-name="Arena Sport 3" tvg-logo="https://i.postimg.cc/MGyH84Gk/Arena-Sport-3-RS-logo.png" group-title="Sports",Arena Sport 3 Bosnia
+#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-name="Arena Sport 3" tvg-logo="https://i.postimg.cc/MGyH84Gk/Arena-Sport-3-RS-logo.png" group-title="Sports",Arena Sport 3 Serbia
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
@@ -1025,7 +1068,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" tvg-name="Arena Sport 4" tvg-logo="https://i.postimg.cc/T2HRBGcL/Arena-Sport-4-RS-logo.png" group-title="Sports",Arena Sport 4 Bosnia
+#EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" tvg-name="Arena Sport 4" tvg-logo="https://i.postimg.cc/T2HRBGcL/Arena-Sport-4-RS-logo.png" group-title="Sports",Arena Sport 4 Serbia
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
@@ -1033,7 +1076,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport5" tvg-name="Arena Sport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTwSm7jZwiQNk2yRW-UtLClBnGuhnbf43HQ&usqp=CAU" group-title="Sports",Arena Sport 5 Bosnia
+#EXTINF:-1 tvg-id="ArenaSport5" tvg-name="Arena Sport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTwSm7jZwiQNk2yRW-UtLClBnGuhnbf43HQ&usqp=CAU" group-title="Sports",Arena Sport 5 Serbia
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
@@ -1041,13 +1084,13 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport6" tvg-name="Arena Sport 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRFkHdFchk_UxdqI8spa0L7vRpjiSyu9MDA&usqp=CAU" group-title="Sports",Arena Sport 6 Bosnia
+#EXTINF:-1 tvg-id="ArenaSport6" tvg-name="Arena Sport 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRFkHdFchk_UxdqI8spa0L7vRpjiSyu9MDA&usqp=CAU" group-title="Sports",Arena Sport 6 Serbia
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
 
-#EXTINF:-1 tvg-id="ArenaSport1x2" tvg-name="Arena Sport 1x2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbGPGnju04D5f3KvNxX6fzBIWeKtmqT4Jtg&usqp=CAU" group-title="Sports",Arena Sport 1x2 Bosnia
+#EXTINF:-1 tvg-id="ArenaSport1x2" tvg-name="Arena Sport 1x2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbGPGnju04D5f3KvNxX6fzBIWeKtmqT4Jtg&usqp=CAU" group-title="Sports",Arena Sport-1x2 Serbia
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -1055,7 +1098,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 
 
-#EXTINF:-1 tvg-id="ArenaSportFight" tvg-name="Arena Sport Fight" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsGHWT0loEMvf2TlhrZuUU9n_Rtv7IMLtAQ&usqp=CAU" group-title="Sports",Arena Sport Fight Bosnia
+#EXTINF:-1 tvg-id="ArenaSportFight" tvg-name="Arena Sport Fight" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsGHWT0loEMvf2TlhrZuUU9n_Rtv7IMLtAQ&usqp=CAU" group-title="Sports",Arena Sport Fight Serbia
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -1063,7 +1106,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 
 
-#EXTINF:-1 tvg-id="ArenaSportEpl" tvg-name="Arena Sport Premier league" tvg-logo="https://i.postimg.cc/QtJtqpZp/20231118-221613.png" group-title="Sports",Arena Sport Premier league
+#EXTINF:-1 tvg-id="ArenaSportEpl" tvg-name="Arena Sport Premier league" tvg-logo="https://i.postimg.cc/QtJtqpZp/20231118-221613.png" group-title="Sports",Arena Sport Premier League
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
