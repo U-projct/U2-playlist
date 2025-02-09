@@ -1,4 +1,4 @@
-#EXTM3U 
+i#EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxycQSbQaO6_S8bTBZydI8AMbDSvYTCERkw&usqp=CAU" group-title="BAL-BALAN TV",Champions TV 1 🇮🇩
@@ -63,16 +63,16 @@ http://ktv.im:8080/fullpack15months354/213907856/21357
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
-#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/40/Espn_internacional.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180704231642&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN 1 Brasil
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/40/Espn_internacional.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180704231642&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN-1 Brasil
 https://super-cdn.link/espn/index.m3u8
  
-#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/4c/Espn2logo2.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222439&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN 2 Brasil
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/4c/Espn2logo2.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222439&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN-2 Brasil
 https://super-cdn.link/espn2/index.m3u8
  
-#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/b/bb/Espn3logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222353&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN 3 Brasil
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/b/bb/Espn3logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222353&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN-3 Brasil
 https://super-cdn.link/espn3/index.m3u8
  
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222338&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN 4 Brasil
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222338&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN-4 Brasil
 https://super-cdn.link/espn4/index.m3u8
 
 
@@ -306,17 +306,11 @@ https://xyzdddd.mizhls.ru/lb/premium633/index.m3u8|Origin=https://claplivehdplay
 https://xyzdddd.mizhls.ru/lb/premium634/index.m3u8|Origin=https://claplivehdplay.ru
 
 
-#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/40/Espn_internacional.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180704231642&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN 1 Brasil
-https://super-cdn.link/espn/index.m3u8
- 
-#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/4c/Espn2logo2.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222439&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN 2 Brasil
-https://super-cdn.link/espn2/index.m3u8
- 
-#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/b/bb/Espn3logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222353&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN 3 Brasil
-https://super-cdn.link/espn3/index.m3u8
- 
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222338&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN 4 Brasil
-https://super-cdn.link/espn4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/800px-Go3_Sport.svg.png" group-title="BAL-BALAN TV", Go3 Sport Extra 1
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf9689067bc0465593084d7832982fd1:07454bafd70413ab57a3eb25de2c79c3
+https://cdnlb.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
 
 
 
@@ -1281,7 +1275,7 @@ https://xyzdddd.mizhls.ru/lb/premium627/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png" group-title="Sports", Nova Sport 1 SK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png" group-title="Sports", Nova Sport1-SK
 
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1291,7 +1285,7 @@ https://xyzdddd.mizhls.ru/lb/premium627/index.m3u8
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cbcs.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Sports", Nova Sport 2 SK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Sports", Nova Sport2-SK
 
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1302,22 +1296,22 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cbcs.mpd
 
 
 
-#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/40/Espn_internacional.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180704231642&path-prefix=pt-br" group-title="Sports",ESPN 1 Brasil
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/40/Espn_internacional.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180704231642&path-prefix=pt-br" group-title="Sports",ESPN1-Brasil
 https://super-cdn.link/espn/index.m3u8
  
-#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/4c/Espn2logo2.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222439&path-prefix=pt-br" group-title="Sports",ESPN 2 Brasil
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/4c/Espn2logo2.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222439&path-prefix=pt-br" group-title="Sports",ESPN2-Brasil
 https://super-cdn.link/espn2/index.m3u8
  
-#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/b/bb/Espn3logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222353&path-prefix=pt-br" group-title="Sports",ESPN 3 Brasil
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/b/bb/Espn3logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222353&path-prefix=pt-br" group-title="Sports",ESPN3-Brasil
 https://super-cdn.link/espn3/index.m3u8
  
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222338&path-prefix=pt-br" group-title="Sports",ESPN 4 Brasil
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222338&path-prefix=pt-br" group-title="Sports",ESPN4-Brasil
 https://super-cdn.link/espn4/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.5.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/b/bb/Espn5.jpg/revision/latest/thumbnail/width/360/height/360?cb=20240217221020&path-prefix=pt-br" group-title="Sports",ESPN 5 Brasil
+#EXTINF:-1 tvg-id="ESPN.5.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/b/bb/Espn5.jpg/revision/latest/thumbnail/width/360/height/360?cb=20240217221020&path-prefix=pt-br" group-title="Sports",ESPN5-Brasil
 https://super-cdn.link/espn5/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.6.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/98/Espn6.png/revision/latest/thumbnail/width/360/height/360?cb=20240217221037&path-prefix=pt-br" group-title="Sports",ESPN 6 Brasil
+#EXTINF:-1 tvg-id="ESPN.6.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/98/Espn6.png/revision/latest/thumbnail/width/360/height/360?cb=20240217221037&path-prefix=pt-br" group-title="Sports",ESPN6-Brasil
 https://super-cdn.link/espn6/index.m3u8
 
 
