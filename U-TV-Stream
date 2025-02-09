@@ -88,11 +88,10 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167743.ts
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://xyzdddd.mizhls.ru/lb/premium454/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV4 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png" group-title="BAL-BALAN TV",SPORT•TV 4~PT
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://xyzdddd.mizhls.ru/lb/premium289/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png" group-title="BAL-BALAN TV",SPORT•TV 4~PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -218,6 +217,20 @@ https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" tvg-name="Arena Sport 4" tvg-logo="https://i.postimg.cc/T2HRBGcL/Arena-Sport-4-RS-logo.png" group-title="BAL-BALAN TV",Arena Sport 4 Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTINF:-1 tvg-id="ArenaSport5" tvg-name="Arena Sport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTwSm7jZwiQNk2yRW-UtLClBnGuhnbf43HQ&usqp=CAU" group-title="BAL-BALAN TV",Arena Sport 5 Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+
 #EXTINF:-1 tvg-id="ArenaSportEpl" tvg-name="Arena Sport Premier league" tvg-logo="https://i.postimg.cc/QtJtqpZp/20231118-221613.png" group-title="BAL-BALAN TV",Arena Sport Premier League
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -246,6 +259,10 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb
 #KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
 
+#EXTINF:-1 tvg-id="ESPN 5.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest/scale-to-width-down/250?cb=20211120193957" group-title="BAL-BALAN TV",ESPN 5~Amerika Latin
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e126297fc7af35c736bdffe98eecaaa:fdb0091cf67d9c596dbfb07cf6f4c8f5
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novaSports1.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/XvBrvCp0/20240114-104445.png" group-title="BAL-BALAN TV",Nova Sport 1 
@@ -321,6 +338,23 @@ https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 #EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a3/Prima_Sport_4_%282022-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20240205123200" group-title="BAL-BALAN TV",Prima Sport 4 
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAvF9VkjhfQE3aQaDOPLoXoub6Kk2mKxm9AwXOjLX_f0VY6e_4I5Ke9kQD&s=10" group-title="BAL-BALAN TV" ,DAZN Eleven 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium455/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70" group-title="BAL-BALAN TV" ,DAZN Eleven 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium456/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6r4rHHYhqEB5lUA3DlxmziWcOAbyI7whqiFdwJzs687qeEE_8_z8wZYe9&s=10" group-title="BAL-BALAN TV" ,DAZN Eleven 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium457/index.m3u8
 
 
 ====== 'Bal-balan Indonesia ======
@@ -813,6 +847,8 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167742.ts
 #EXTINF:-1 tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Sports",SPORT•TV-2 Backup
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167743.ts
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Sports",SPORT•TV-4 Backup
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
 
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV1 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png" group-title="Sports",SPORT•TV 1~PT
@@ -1079,14 +1115,7 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-id="dubaisports1.ae" tvg-logo="https://i.imgur.com/xuFbLf7.png",Dubai Sports 1 
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
 
-#EXTINF:-1 group-title="Sports" tvg-id="dubaisports2.ae" tvg-logo="https://i.imgur.com/o8RMWHE.png",Dubai Sports 2 
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
-
-#EXTINF:-1 group-title="Sports" tvg-id="dubaisports3.ae" tvg-logo="https://i.imgur.com/XjOO8ri.png",Dubai Sports 3 
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_Sport_logo_2012.svg/2560px-%C4%8CT_Sport_logo_2012.svg.png" group-title="Sports", CT Sport 
 
