@@ -76,19 +76,19 @@ https://super-cdn.link/espn3/index.m3u8
 https://super-cdn.link/espn4/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/portugal/logo/sport_tv1.png" group-title="BAL-BALAN TV",SPORT•TV 1~PT 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png" group-title="BAL-BALAN TV",SPORT•TV 1~PT 
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167742.ts
 
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/portugal/logo/sport_tv2.png" group-title="BAL-BALAN TV",SPORT•TV 2~PT 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png" group-title="BAL-BALAN TV",SPORT•TV 2~PT 
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167743.ts
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV3 FHD" tvg-logo="https://tvepg.eu/img/portugal/logo/sport_tv3.png" group-title="BAL-BALAN TV",SPORT•TV 3~PT
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV3 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png" group-title="BAL-BALAN TV",SPORT•TV 3~PT
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://xyzdddd.mizhls.ru/lb/premium454/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV4 FHD" tvg-logo="https://tvepg.eu/img/portugal/logo/sport_tv4.png" group-title="BAL-BALAN TV",SPORT•TV 4~PT
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV4 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png" group-title="BAL-BALAN TV",SPORT•TV 4~PT
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
@@ -807,28 +807,28 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167743.ts
 
 
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV1 FHD" tvg-logo="https://tvepg.eu/img/portugal/logo/sport_tv1.png" group-title="Sports",SPORT•TV 1~PT
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV1 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png" group-title="Sports",SPORT•TV 1~PT
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://xyzdddd.mizhls.ru/lb/premium49/index.m3u8|Origin=https://claplivehdplay.ru
 
 
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV2 FHD" tvg-logo="https://tvepg.eu/img/portugal/logo/sport_tv2.png" group-title="Sports",SPORT•TV 2~PT
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV2 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png" group-title="Sports",SPORT•TV 2~PT
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://xyzdddd.mizhls.ru/lb/premium74/index.m3u8|Origin=https://claplivehdplay.ru
 
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV3 FHD" tvg-logo="https://tvepg.eu/img/portugal/logo/sport_tv3.png" group-title="Sports",SPORT•TV 3~PT
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV3 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png" group-title="Sports",SPORT•TV 3~PT
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://xyzdddd.mizhls.ru/lb/premium454/index.m3u8|Origin=https://claplivehdplay.ru
 
 
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV4 FHD" tvg-logo="https://tvepg.eu/img/portugal/logo/sport_tv4.png" group-title="Sports",SPORT•TV 4~PT
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV4 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png" group-title="Sports",SPORT•TV 4~PT
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
