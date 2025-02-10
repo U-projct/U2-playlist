@@ -403,11 +403,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wn
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MtrSpt1.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-016/stream.mpd
-
 #EXTINF:-1 tvg-id="6413" tvg-name="Viaplay - Motor" tvg-logo="https://frontend-assets.viaplay.com/sanity/viaplay_image.jpeg" group-title="Balapan TV - MOTO GP & F1" , Viaplay Motor
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/6413
 
@@ -1363,6 +1358,13 @@ https://xyzdddd.mizhls.ru/lb/premium90/index.m3u8|Origin=https://claplivehdplay.
 #EXTVLCOPT:http-referrer=https://quest4play.xyz/premiumtv/daddylivehd.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/12/14205541/Scooore-Sportdigital.jpg",Scooore Sport Digital
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://d17c7mhdsdu50m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bwpxsoc1pdhwy/index.m3u8
+
 
 
 ============= 'CHAMPIONS TV 🇮🇩 ==============
