@@ -357,6 +357,13 @@ https://xyzdddd.mizhls.ru/lb/premium456/index.m3u8
 https://xyzdddd.mizhls.ru/lb/premium457/index.m3u8
 
 
+#EXTINF:-1 group-title="BAL-BALAN TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004",beIN Sports MENA 1
+
+#EXTVLCOPT:http-referrer=https://quest4play.xyz/premiumtv/daddylivehd.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
+
+
 ====== 'Bal-balan Indonesia ======
 
 
@@ -879,6 +886,20 @@ https://xyzdddd.mizhls.ru/lb/premium454/index.m3u8|Origin=https://claplivehdplay
 https://xyzdddd.mizhls.ru/lb/premium289/index.m3u8|Origin=https://claplivehdplay.ru
 
 
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV5 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png" group-title="Sports",SPORT•TV 5~PT 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium290/index.m3u8|Origin=https://claplivehdplay.ru
+
+
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="SPORT TV6 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png" group-title="Sports",SPORT•TV 6~PT 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium291/index.m3u8|Origin=https://claplivehdplay.ru
+
+
 
 #EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/200?cb=20201130040927" group-title="Sports",ESPN 1~Amerika Latin
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1322,6 +1343,26 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.
 #EXTINF:-1 group-title="Sports" tvg-id="dubaisports3.ae" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/65dc4f148c.png",Dubai Sports 3 
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8 
 
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinSports1en.id" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004",beIN Sports English 1 
+
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium61/index.m3u8|Origin=https://claplivehdplay.ru
+
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinSports2en.id" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004",beIN Sports English 2 
+
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium90/index.m3u8|Origin=https://claplivehdplay.ru
+
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004",beIN Sports MENA 1
+
+#EXTVLCOPT:http-referrer=https://quest4play.xyz/premiumtv/daddylivehd.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
 
 
 ============= 'CHAMPIONS TV 🇮🇩 ==============
