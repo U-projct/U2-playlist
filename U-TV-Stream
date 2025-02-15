@@ -99,17 +99,6 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-l.png" group-title="BAL-BALAN TV",Soccer Channel-HD 🇮🇩
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ziggo_Sport_Logo.jpg/640px-Ziggo_Sport_Logo.jpg", group-title="BAL-BALAN TV",Ziggo Sport 1 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
-https://da-d436236420010b88000103030000000000000006.id.cdn.upcbroadband.com/wp/wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ziggo_Sport_Logo.jpg/640px-Ziggo_Sport_Logo.jpg", group-title="BAL-BALAN TV",Ziggo Sport 2 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-fhd-avc/NL_000095_019371.mpd?p=web
 
 
 
@@ -145,98 +134,11 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
 
 
-#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="Diema Sport" tvg-logo="https://i.postimg.cc/6Q4k0dsq/Diema-Sport.png" group-title="BAL-BALAN TV",DIEMA SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://xyzdddd.mizhls.ru/lb/premium465/index.m3u8|Origin=https://claplivehdplay.ru
-
-#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="Diema Sport 2" tvg-logo="https://i.postimg.cc/nh3F5Kw1/Diema-Sport2.png" group-title="BAL-BALAN TV",DIEMA SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://xyzdddd.mizhls.ru/lb/premium466/index.m3u8|Origin=https://claplivehdplay.ru
-
-#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-name="Diema Sport 3" tvg-logo="https://i.postimg.cc/NMTdy438/Diema-Sport3.png" group-title="BAL-BALAN TV",DIEMA SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://xyzdddd.mizhls.ru/lb/premium467/index.m3u8|Origin=https://claplivehdplay.ru
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/knzQ3Py/1000188782.jpg" group-title="BAL-BALAN TV" ,TV 4 Sports
 https://hls.pokertvfa.live/hls/stream.m3u8
 
-
-
-#EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" tvg-name="Arena Premium 1" tvg-logo="https://i.postimg.cc/c49DNx93/Arena-Sport-1-Premium-RS-logo.png" group-title="BAL-BALAN TV",Arena 1 Premium-Serbia
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
-
-
-#EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" tvg-name="Arena Premium 2" tvg-logo="https://i.postimg.cc/DZxGbZbd/Arena-Sport-2-Premium-RS-logo.png" group-title="BAL-BALAN TV",Arena 2 Premium-Serbia
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-
-https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
-
-
-#EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" tvg-name="Arena Premium 3" tvg-logo="https://i.postimg.cc/XJ1ZYzTs/Arena-Sport-3-Premium-RS-logo.png" group-title="BAL-BALAN TV",Arena 3 Premium-Serbia
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-name="Arena Sport 1" tvg-logo="https://i.postimg.cc/52XQDnv1/Arena-Sport-1-RS-logo.png" group-title="BAL-BALAN TV",Arena Sport 1 - Serbia
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-name="Arena Sport 2" tvg-logo="https://i.postimg.cc/2yH3KZSV/Arena-Sport-2-RS-logo.png" group-title="BAL-BALAN TV",Arena Sport 2 - Serbia
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-name="Arena Sport 3" tvg-logo="https://i.postimg.cc/MGyH84Gk/Arena-Sport-3-RS-logo.png" group-title="BAL-BALAN TV",Arena Sport 3 - Serbia
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" tvg-name="Arena Sport 4" tvg-logo="https://i.postimg.cc/T2HRBGcL/Arena-Sport-4-RS-logo.png" group-title="BAL-BALAN TV",Arena Sport 4 Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport5" tvg-name="Arena Sport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTwSm7jZwiQNk2yRW-UtLClBnGuhnbf43HQ&usqp=CAU" group-title="BAL-BALAN TV",Arena Sport 5 Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
-
-
-#EXTINF:-1 tvg-id="ArenaSportEpl" tvg-name="Arena Sport Premier league" tvg-logo="https://i.postimg.cc/QtJtqpZp/20231118-221613.png" group-title="BAL-BALAN TV",Arena Sport Premier League
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 
 #EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/200?cb=20201130040927" group-title="BAL-BALAN TV",ESPN 1~Amerika Latin
@@ -264,42 +166,6 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58d
 #KODIPROP:inputstream.adaptive.license_key=4e126297fc7af35c736bdffe98eecaaa:fdb0091cf67d9c596dbfb07cf6f4c8f5
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd
 
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novaSports1.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/XvBrvCp0/20240114-104445.png" group-title="BAL-BALAN TV",Nova Sport 1 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://xyzdddd.mizhls.ru/lb/premium631/index.m3u8|Origin=https://claplivehdplay.ru
-
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novaSports2.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/qqwRFcZ2/20240114-104721.png" group-title="BAL-BALAN TV",Nova Sport 2 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-
-https://xyzdddd.mizhls.ru/lb/premium632/index.m3u8|Origin=https://claplivehdplay.ru
-
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novaSports3.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/6qW6C25q/20240114-104838.png" group-title="BAL-BALAN TV",Nova Sport 3 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-
-https://xyzdddd.mizhls.ru/lb/premium633/index.m3u8|Origin=https://claplivehdplay.ru
-
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novaSports4.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/fyRZJGB0/20240114-105038.png" group-title="BAL-BALAN TV",Nova Sport 4 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-
-https://xyzdddd.mizhls.ru/lb/premium634/index.m3u8|Origin=https://claplivehdplay.ru
 
 
 #EXTINF:-1 tvg-id="Go3Sport 2" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="BAL-BALAN TV",Go3 Sport 2
@@ -341,27 +207,6 @@ https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAvF9VkjhfQE3aQaDOPLoXoub6Kk2mKxm9AwXOjLX_f0VY6e_4I5Ke9kQD&s=10" group-title="BAL-BALAN TV" ,DAZN Eleven 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium455/index.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70" group-title="BAL-BALAN TV" ,DAZN Eleven 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium456/index.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6r4rHHYhqEB5lUA3DlxmziWcOAbyI7whqiFdwJzs687qeEE_8_z8wZYe9&s=10" group-title="BAL-BALAN TV" ,DAZN Eleven 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium457/index.m3u8
-
-
-#EXTINF:-1 group-title="BAL-BALAN TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004",beIN Sports MENA 1
-
-#EXTVLCOPT:http-referrer=https://quest4play.xyz/premiumtv/daddylivehd.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
 
 
 ====== 'Bal-balan Indonesia ======
@@ -1364,6 +1209,10 @@ https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://d17c7mhdsdu50m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bwpxsoc1pdhwy/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sharjah24.ae/-/media/Sharjah24/Articles/2024/August-2024/21/ssdf.jpg?h=1080&w=1920&hash=D3BC40D0B8F11D0F7F86CEAE890C1EF5" group-title="Sports",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
 
