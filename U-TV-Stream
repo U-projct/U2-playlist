@@ -208,6 +208,7 @@ https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
 https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a3/Prima_Sport_4_%282022-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20240205123200" group-title="BAL-BALAN TV",Prima Sport 4 
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
@@ -215,10 +216,10 @@ https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhpgZ9bYZXJQPoy-9KUPOFbDhSX-4ytDCYScsnDUoGEIszZU-MVErhKCY&s=10" group-title="BAL-BALAN TV",ESPN-1 ~ Brazil
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222338&path-prefix=pt-br" group-title="BAL-BALAN TV",ESPN-4 ~ Brazil
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBuj4Hax1Rv5I2wI8wvgu9FbYlGoKnLC8iQA&usqp=CAU" group-title="BAL-BALAN TV",Hub Premier 1 http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/305270
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQtXy2jGq-obQKBXN3zfFrEUyCRs4Q0V2jfalkfDJHw_iMVT1-2JfDRw&s=10" group-title="BAL-BALAN TV",Hub Premier 2 http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/305271
 
 
 
@@ -248,6 +249,12 @@ https://gasruktv.my.id/asx/live.mpd?id=205
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
+
+
+#EXTINF:-1 group-title="BAL-BALAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
 
 ===== Balapan TV - MOTO GP & F1 =====
@@ -999,6 +1006,11 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cbcs.mpd
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cbcs.mpd
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhpgZ9bYZXJQPoy-9KUPOFbDhSX-4ytDCYScsnDUoGEIszZU-MVErhKCY&s=10" group-title="Sports",ESPN-1 ~ Brazil
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220119222338&path-prefix=pt-br" group-title="Sports",ESPN-4 ~ Brazil
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143
+
 
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/40/Espn_internacional.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180704231642&path-prefix=pt-br" group-title="Sports",ESPN1-Brasil
 https://super-cdn.link/espn/index.m3u8
@@ -1040,6 +1052,12 @@ https://d17c7mhdsdu50m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://sharjah24.ae/-/media/Sharjah24/Articles/2024/August-2024/21/ssdf.jpg?h=1080&w=1920&hash=D3BC40D0B8F11D0F7F86CEAE890C1EF5" group-title="Sports",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBuj4Hax1Rv5I2wI8wvgu9FbYlGoKnLC8iQA&usqp=CAU" group-title="Sports",Hub Premier 1 http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/305270
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQtXy2jGq-obQKBXN3zfFrEUyCRs4Q0V2jfalkfDJHw_iMVT1-2JfDRw&s=10" group-title="Sports",Hub Premier 2 http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/305271
 
 
 
