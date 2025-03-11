@@ -1318,7 +1318,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-
 
 
 
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Animal Planet" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Animal-Planet.png" group-title="Knowledge & Documentary",Animal Planet
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-1YlXYTl5rMZtYJUcrTysGRMc7Z-UNf4dB19C1GEBAfm57VjlbjwXc&s=10" group-title="Knowledge & Documentary",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
@@ -1612,7 +1612,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-#EXTINF:-1 tvg-id="CINEMACHI HD - [Channel 401].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgieK34wUQucrd4UtBwlvYfLa4m51-T5L_BrkrFH0d8J7TXfkoguyBQxFZUMaXb9SR1V2dymVyLmdzhJ6JIISrpoN3iyJ9qm4RAVDS-rlKoX9UO6eMVaJRZS6o6DUspWTuxdX_FqvypnFQTRTiO0HrRI-_vQty5iS5fLDJXyrSeNGyGwNf7_wl6gwvd/w586/Cinemachi.jpg" group-title="Premium Movies",Cinemachi HD
+#EXTINF:-1 tvg-id="CINEMACHI HD - [Channel 401].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="Premium Movies",Cinemachi-ORIGINALS
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 
