@@ -217,6 +217,24 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" group-title="BAL-BALAN TV",True Peemier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" group-title="BAL-BALAN TV",true Peemier Football 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" group-title="BAL-BALAN TV",true Peemier Football 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/epl3/chunks.m3u8
+
+
 
 ====== 'Bal-balan Indonesia ======
 
@@ -233,7 +251,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
+https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
 
 
 #EXTINF:-1 group-title="Bal-balan Indonesia" tvg-logo="https://i.imgur.com/A1hlnLA.png",Sportstars 2
@@ -463,26 +481,26 @@ http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/4721
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1600px-Logo_bein_sports_1.png", beIN SPORTS 1 ID 🇮🇩
+#EXTINF:-1 tvg-id="beINSports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1600px-Logo_bein_sports_1.png", beIN SPORTS-1 ID 🇮🇩
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beIN SPORTS 2 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1600px-Logo_bein_sports_2.png", beIN SPORTS 2 ID 🇮🇩
+#EXTINF:-1 tvg-id="beIN SPORTS 2 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1600px-Logo_bein_sports_2.png", beIN SPORTS-2 ID 🇮🇩
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beIN SPORTS 3 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1600px-Logo_bein_sports_3.png", beIN SPORTS 3 ID 🇮🇩
+#EXTINF:-1 tvg-id="beIN SPORTS 3 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1600px-Logo_bein_sports_3.png", beIN SPORTS-3 ID 🇮🇩
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beIN SPORTS 4 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1595px-Logo_bein_sports_4.png", beIN SPORTS 4 ID 🇮🇩
+#EXTINF:-1 tvg-id="beIN SPORTS 4 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1595px-Logo_bein_sports_4.png", beIN SPORTS-4 ID 🇮🇩
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinSports1indonesia.id" tvg-logo="https://thumbor.prod.vidiocdn.com/hmErfmKCTN5eaHacSA3YqbAXRvY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg",beIN Sports 1 IDN
@@ -2675,7 +2693,7 @@ https://super-cdn.link/espn6/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Test" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png", Bein Sports 5 ID 🇮🇩
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Test" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305", Bein Sports 5 ID 🇮🇩
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
