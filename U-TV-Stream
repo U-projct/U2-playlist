@@ -127,6 +127,13 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
 https://hls.pokertvfa.live/hls/stream.m3u8
 
 
+#EXTINF:-1 tvg-id="Go3Sport 1" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="BAL-BALAN TV",Go3 Sport 1
+#http://lb.wisp.cat/lb0/LT_VIASAT_SPORT_BALTIC_HD/video.m3u8?token=7jfxcz8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
+https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
+
 
 #EXTINF:-1 tvg-id="Go3Sport 2" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="BAL-BALAN TV",Go3 Sport 2
 #http://lb.wisp.cat/lb0/SDI_TVPLAY_SPORTS_PLUS/video.m3u8?token=7jfxcz8
@@ -219,6 +226,36 @@ https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
 https://cdn1.googlecdnforstreaming.live/live/epl3/chunks.m3u8
 
 
+
+#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://media.info/i/lf/900/1690027797/1539.png" group-title="BAL-BALAN TV",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+
+#EXTINF:0 tvg-id="dazn1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="BAL-BALAN TV", DAZN 1 DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
+https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png" group-title="BAL-BALAN TV",Esp-beIN Sports Xtra Español
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="SKY SPORTS LALIGA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="BAL-BALAN TV" , sky sports LALIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
 
 ====== 'Bal-balan Indonesia ======
@@ -785,42 +822,6 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
 
 
 
-#EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/200?cb=20201130040927" group-title="Sports",ESPN 1~Amerika Latin
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
-
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest/scale-to-width-down/200?cb=20210609161318" group-title="Sports",ESPN 2~Amerika Latin
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
-
-#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest/scale-to-width-down/250?cb=20231118035609" group-title="Sports",ESPN 3~Amerika Latin
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
-
-#EXTINF:-1 tvg-id="ESPN 4.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211120194330" group-title="Sports",ESPN 4~Amerika Latin
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
-
-#EXTINF:-1 tvg-id="ESPN 5.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest/scale-to-width-down/250?cb=20211120193957" group-title="Sports",ESPN 5~Amerika Latin
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e126297fc7af35c736bdffe98eecaaa:fdb0091cf67d9c596dbfb07cf6f4c8f5
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd
-
-#EXTINF:-1 tvg-id="ESPN 6.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg/revision/latest/scale-to-width-down/250?cb=20211120192909" group-title="Sports",ESPN 6~Amerika Latin
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5836382452cdca1e1c8bf8b9a713534:7d261930c3309ed2b06d2abb34a64410
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/master.mpd
-
-#EXTINF:-1 tvg-id="ESPN 7.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_7.svg/revision/latest/scale-to-width-down/250?cb=20240210020543 group-title="Sports",ESPN 7~Amerika Latin
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=98ea1e32227adcd3618baac2bbf36814:72a03a09d33e412f14a9bfa4ef24b542
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
-
-
 #EXTINF:-1 tvg-id="[IT] Sky Sport MotoGP" tvg-logo="https://ridertua.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2017/09/motogp-logo.png" group-title="Sports",Sky Sport MotoGP~Italy
 http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
 
@@ -851,7 +852,7 @@ https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
 
 
 #EXTINF:-1 tvg-id="Go3Sport 3" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport3.png" group-title="Sports",Go3 Sport 3
-#http://lb.wisp.cat/lb0/TV3_Sport3_HD/video.m3u8?token=7jfxcz8
+http://lb.wisp.cat/lb0/TV3_Sport3_HD/video.m3u8?token=7jfxcz8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
@@ -1065,6 +1066,28 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/
 
 
 
+#EXTINF:0 tvg-id="dazn1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="Sports", DAZN 1 DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
+https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png" group-title="Sports",Esp-beIN Sports Xtra Español
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SKY SPORTS LALIGA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="Sports" , sky sports LALIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
 
 ============== 'ISLAMIC TV ==============
 
@@ -1088,12 +1111,15 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 
-#EXTINF:-1 tvg-ID="Rodja TV" tvg-name="Rodja TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="ISLAMIC TV",Rodja TV
-http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
+#EXTINF:-1 tvg-ID="Rodja TV" tvg-name="Rodja TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="ISLAMIC TV", Rodja TV
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/RodjaTV-HD.m3u8
+
 
 #EXTINF:-1 tvg-id="Surau TV" tvg-name="Surau TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SurauTV.png" group-title="ISLAMIC TV", Surau TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+
 
 #EXTINF:-1 tvg-id="Wesal TV" tvg-name="Wesal TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Wesal_TV.png" group-title="ISLAMIC TV", Wesal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1103,6 +1129,9 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 tvg-id="Ashiil TV" tvg-name="Ashiil TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHURA-4ChbvYMUwCxptqMa-R7kUeIc6TzsVbL0ifpmtrywMgLzitFcWnD541MP11CeFoBYUC8MOPUzT6avozH9JtZ6H257q7AYMDyzm8NI_Bw6LRxfbVes3WETcumnzQB3lmHXvAA3sPm9/s1600/ashiil-tv-channel-logo.png" group-title="ISLAMIC TV",Ashill TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+
+#EXTINF:-1 tvg-id="medstv.id" tvg-name="medstv" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Meds-TV.png" group-title="ISLAMIC TV", MedsTV
+https://WahyuIPTV.short.gy/MedsTV-HD.m3u8
 
 
 #EXTINF:-1 group-title="ISLAMIC TV" tvg-id="MuhammadiyahTV.id" tvg-logo="https://i.ibb.co.com/RB9CtH1/tvmu.png",TVMU
@@ -2573,6 +2602,11 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
 ============='Test=============
+
+#EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/200?cb=20201130040927" group-title="Test",ESPN 1~Amerika Latin
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1024px-Sky_Sport_F1_-_Logo_2020.svg.png?20200924143759" group-title="Test", Sky Sport F1 HD - Italy
