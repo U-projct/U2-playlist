@@ -340,7 +340,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8Ho3J1CItaNLTHS8xfYqq6vkH20XG9Nig5-OSUsr8Jr5ZSNTkQ_l9K9u&s=10" group-title="Balapan TV - MOTO GP & F1", Motor racing
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8Ho3J1CItaNLTHS8xfYqq6vkH20XG9Nig5-OSUsr8Jr5ZSNTkQ_l9K9u&s=10" group-title="Balapan TV - MOTO GP & F1", Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 
@@ -368,9 +368,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGlFYWSY1TxtNBiCc_mT9Vi69Lc8vlA8P4A&usqp=CAUg" group-title="Indonesia Channels",Indosiar 
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGlFYWSY1TxtNBiCc_mT9Vi69Lc8vlA8P4A&usqp=CAUg" group-title="Indonesia Channels",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
@@ -461,8 +460,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/PemersatuBangsa/sa_dash/PemersatuB
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtbZ6M_uPWYwRnkR9S5Qu1hOhXQkjp65f8Q&usqp=CAU" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Indonesia Channels",CNBC Indonesia
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+
 
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="Indonesia Channels" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://progres.id/wp-content/uploads/2024/05/btv-beritasatu.webp",BTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -822,7 +822,7 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167742.ts
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png" group-title="Sports",SPORT•TV-2
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167743.ts
 
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png",SPORT-TV3
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png",SPORT•TV 3~PT
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/167744.ts
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png" group-title="Sports",SPORT•TV-4
@@ -1085,7 +1085,7 @@ https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8Ho3J1CItaNLTHS8xfYqq6vkH20XG9Nig5-OSUsr8Jr5ZSNTkQ_l9K9u&s=10" group-title="Sports", Motor racing
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8Ho3J1CItaNLTHS8xfYqq6vkH20XG9Nig5-OSUsr8Jr5ZSNTkQ_l9K9u&s=10" group-title="Sports", Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 
