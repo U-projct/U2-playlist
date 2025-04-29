@@ -260,7 +260,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
 
-#EXTINF:-1 tvg-id="SKY SPORTS BUNDES LIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQzEf4q0zbuP4iw3T2M5IUIW1FesXX4QShPyJapmz_jhhDzXThuOL4EYwM&s=10" group-title="BAL-BALAN TV" , sky sports BUNDESLIGA
+#EXTINF:-1 tvg-id="SKY SPORTS BUNDES LIGA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sky_Sports_Bundesliga_Mexico.svg/revision/latest/scale-to-width-down/250?cb=20231120144251" group-title="BAL-BALAN TV" , sky sports BUNDESLIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -268,6 +268,16 @@ https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
 
 
+
+#EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 1.ua" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJjdrUcVSsbkCgiaviCFZuXN7MD4m03lXyA&s" group-title="BAL-BALAN TV",Sport Abu Dhabi Premium 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 2.ua" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJjdrUcVSsbkCgiaviCFZuXN7MD4m03lXyA&s" group-title="BAL-BALAN TV",Sport Abu Dhabi Premium 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 
 
 ====== 'Bal-balan Indonesia ======
@@ -1128,12 +1138,23 @@ https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 
-#EXTINF:-1 tvg-id="SKY SPORTS BUNDES LIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQzEf4q0zbuP4iw3T2M5IUIW1FesXX4QShPyJapmz_jhhDzXThuOL4EYwM&s=10" group-title="Sports" , sky sports BUNDESLIGA
+#EXTINF:-1 tvg-id="SKY SPORTS BUNDES LIGA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sky_Sports_Bundesliga_Mexico.svg/revision/latest/scale-to-width-down/250?cb=20231120144251" group-title="Sports" , sky sports BUNDESLIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 1.ua" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJjdrUcVSsbkCgiaviCFZuXN7MD4m03lXyA&s" group-title="Sports",Sport Abu Dhabi Premium 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 2.ua" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJjdrUcVSsbkCgiaviCFZuXN7MD4m03lXyA&s" group-title="Sports",Sport Abu Dhabi Premium 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 
 
 ============== 'ISLAMIC TV ==============
@@ -1158,7 +1179,7 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ISLAMIC TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest/scale-to-width-down/284?cb=20180922034039",RODJA TV
+#EXTINF:-1 group-title="ISLAMIC TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest/scale-to-width-down/284?cb=20180922034039",RODJA TV HD
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://rodjatv.com/rodjatv/live.m3u8
 
