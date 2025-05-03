@@ -236,7 +236,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL3.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
-#EXTINF:0 tvg-id="dazn1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="BAL-BALAN TV", DAZN 1 Ger
+#EXTINF:0 tvg-id="dazn1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="BAL-BALAN TV", De - DAZN 1 Germany
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -371,7 +371,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 #EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DaDQQiA8bfjINTpAzAZkiVBt9Qz5zune4JlxKILJqzoyItuvaDxQ_4s9&s=10",sky sport MotoGP
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/28473
 
-#EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",sky sports F1
+#EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987,sky sports F1
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2876
 
 
@@ -1148,7 +1148,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DaDQQiA8bfjINTpAzAZkiVBt9Qz5zune4JlxKILJqzoyItuvaDxQ_4s9&s=10",sky sport MotoGP
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/28473
 
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",sky sports F1
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987",sky sports F1
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2876
 
 
