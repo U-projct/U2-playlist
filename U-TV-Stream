@@ -277,6 +277,18 @@ https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1584516837_premiere-football.jpg" group-title="BAL-BALAN TV",Premier Football
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/1200w/seriea/STARZPLAYSPORTSY2022M/STARZPLAYSPORTSY2022M-landscape-poster-v1.jpg" group-title="BAL-BALAN TV",Starzplay Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+ 
 
 ====== 'Bal-balan Indonesia ======
 
@@ -359,20 +371,13 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1690027975/1491.png" group-title="Balapan TV - MOTO GP & F1",TNT SPORTS 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-
 
 #EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DaDQQiA8bfjINTpAzAZkiVBt9Qz5zune4JlxKILJqzoyItuvaDxQ_4s9&s=10",sky sport MotoGP
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/28473
 
-#EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987,sky sports F1
+#EXTINF:-1 group-title="Balapan TV - MOTO GP & F1" tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987",sky sports F1
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2876
+
 
 
 ============ 'Indonesia Channels =============
@@ -1173,6 +1178,17 @@ https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1584516837_premiere-football.jpg" group-title="Sports",Premier Football
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/1200w/seriea/STARZPLAYSPORTSY2022M/STARZPLAYSPORTSY2022M-landscape-poster-v1.jpg" group-title="Sports",Starzplay Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 
 ============== 'ISLAMIC TV ==============
 
