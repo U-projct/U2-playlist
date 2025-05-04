@@ -282,13 +282,38 @@ https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/1200w/seriea/STARZPLAYSPORTSY2022M/STARZPLAYSPORTSY2022M-landscape-poster-v1.jpg" group-title="BAL-BALAN TV",Starzplay Sports
+#EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://ar.esquireme.com/wp-content/uploads/sites/5/cloud/2022/09/11/STARZPLAYSPORTSY2022M-landscape-poster-v1.jpg" group-title="BAL-BALAN TV",Starzplay Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
- 
+
+
+#EXTINF:-1 tvg-id="SKY SPORTS LIVE 1" tvg-logo="https://archive.org/download/SkySportsLogo/Sky-sports-HD-logo.png" group-title="BAL-BALAN TV" , SKY SPORTS LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="SKY SPORTS LIVE 2" tvg-logo="https://archive.org/download/SkySportsLogo/Sky-sports-HD-logo.png" group-title="BAL-BALAN TV" , SKY SPORTS LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
+https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd
+
+
+#EXTINF:-1 group-title="BAL-BALAN TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-true Premier 1 Football
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="BAL-BALAN TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-true Premier 2 Football
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
+
 
 ====== 'Bal-balan Indonesia ======
 
@@ -1183,12 +1208,29 @@ https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/1200w/seriea/STARZPLAYSPORTSY2022M/STARZPLAYSPORTSY2022M-landscape-poster-v1.jpg" group-title="Sports",Starzplay Sports
+#EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRebXuouLOdaJklADUGFGLT6t4vlqP3jgdmyTYgINOlqDDuxNyt_MFPi5q&s=10" group-title="Sports",Starzplay Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="SKY SPORTS LIVE 1" tvg-logo="https://archive.org/download/SkySportsLogo/Sky-sports-HD-logo.png" group-title="Sports" , SKY SPORTS LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="SKY SPORTS LIVE 2" tvg-logo="https://archive.org/download/SkySportsLogo/Sky-sports-HD-logo.png" group-title="Sports" , SKY SPORTS LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
+https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd
+
 
 ============== 'ISLAMIC TV ==============
 
