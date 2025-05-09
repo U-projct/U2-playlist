@@ -426,13 +426,15 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS-1- English
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="⚽LIGA INGGRIS⚽",beIN-SPORTS 1 English
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
 
 
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS-2- English
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="⚽LIGA INGGRIS⚽",beIN-SPORTS 2  English
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen2.m3u8
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS 1 Arabian
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
@@ -549,7 +551,10 @@ http://ktv.im:8080/fullpack15months354/213907856/21355
 https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
 
+
 ====== ⚽LIGA ITALI⚽======
+
+
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="⚽LIGA ITALI⚽",ChampionsTV 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -575,10 +580,6 @@ https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1584516837_premiere-football.jpg" group-title="⚽LIGA ITALI⚽",Premier Football
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://ar.esquireme.com/wp-content/uploads/sites/5/cloud/2022/09/11/STARZPLAYSPORTSY2022M-landscape-poster-v1.jpg" group-title="⚽LIGA ITALI⚽",Starzplay Sports
 #KODIPROP:inputstream=inputstream.adaptive
