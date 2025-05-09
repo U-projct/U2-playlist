@@ -327,7 +327,7 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_Premi
 
 
 
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RfKLbSky5UzOc6_BnlkZzdQ1hGw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="⚽LIGA INGGRIS⚽",ChampionsTV 5 HD
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RfKLbSky5UzOc6_BnlkZzdQ1hGw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="⚽LIGA INGGRIS⚽",1. ChampionsTV 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -335,7 +335,7 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_Premi
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 
 
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://thumbor.prod.vidiocdn.com/C-IX1e00Jrxla3O45SZm7m6FsmI=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="⚽LIGA INGGRIS⚽",ChampionsTV 6 HD
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://thumbor.prod.vidiocdn.com/C-IX1e00Jrxla3O45SZm7m6FsmI=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="⚽LIGA INGGRIS⚽",2. ChampionsTV 6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -426,12 +426,12 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS 1 English
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS-1- English
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS 2 English
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS-2- English
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen2.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS 1 Arabian
@@ -558,10 +558,12 @@ https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 
+
 #EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1584516837_premiere-football.jpg" group-title="⚽LIGA ITALI⚽",Premier Football
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 1.ua" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ66w8-lX_a7iXlJwbkMjAplw5zAwRv_sC0aA&s" group-title="⚽LIGA ITALI⚽",Sport Abu Dhabi Premium 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
