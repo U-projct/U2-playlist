@@ -67,8 +67,9 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 
 #EXTINF:-1 tvg-id="SS Premier League" tvg-name="SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Sky-Sports-Premier-League.png" group-title="⚽ BAL-BALAN TV ⚽", Sky Sports Premier League FHD 
-http://ktv.im:8080/fullpack15months354/213907856/21356 
-#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SUPERSPORTS LALIGA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCooR0Wf0-pvi7m5skN9cIbYnwK8X08h6z9YFL4TPU2SUPmF-AVtJ3GvY&s=10" group-title="BAL-BALAN TV",LALIGA TV
+http://ktv.im:8080/fullpack15months354/213907856/21356
+
+#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SUPERSPORTS LALIGA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCooR0Wf0-pvi7m5skN9cIbYnwK8X08h6z9YFL4TPU2SUPmF-AVtJ3GvY&s=10" group-title="⚽ BAL-BALAN TV ⚽",LALIGA TV
 http://ktv.im:8080/fullpack15months354/213907856/21355
 
 
@@ -628,51 +629,51 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 ===== Balapan TV - MOTO GP & F1 =====
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hoP8i7-OI9MdCdOS8urSOimvp94=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-1-9fe953.jpg" group-title="🏁 Balapan TV",SPOTV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hoP8i7-OI9MdCdOS8urSOimvp94=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-1-9fe953.jpg" group-title="🏁 Balapan TV 🏁",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ukPeKAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="🏁 Balapan TV",SPOTV 2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ukPeKAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="🏁 Balapan TV 🏁",SPOTV 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
-#EXTINF:-1 group-title="🏁 Balapan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysi8jGCxlR5_MNvGv2YQCg0KDe-J9w7c83HFx6nZM0HeqZtq3UPzumcGM&s=10" tvg-id="98" , Motorvision+ TV
+#EXTINF:-1 group-title="🏁 Balapan TV 🏁" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysi8jGCxlR5_MNvGv2YQCg0KDe-J9w7c83HFx6nZM0HeqZtq3UPzumcGM&s=10" tvg-id="98" , Motorvision+ TV
 http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 
-#EXTINF:-1 group-title="🏁 Balapan TV" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubairacing-logo.png" , Dubai Racing 
+#EXTINF:-1 group-title="🏁 Balapan TV 🏁" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubairacing-logo.png" , Dubai Racing 
 
 https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8
 
 
-#EXTINF:-1 group-title="🏁 Balapan TV" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubairacing-logo.png" , Dubai Racing 2 
+#EXTINF:-1 group-title="🏁 Balapan TV 🏁" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubairacing-logo.png" , Dubai Racing 2 
 
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1024px-DAZN_F1_logo.svg.png" group-title="🏁 Balapan TV", DAZN F1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1024px-DAZN_F1_logo.svg.png" group-title="🏁 Balapan TV 🏁", DAZN F1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8Ho3J1CItaNLTHS8xfYqq6vkH20XG9Nig5-OSUsr8Jr5ZSNTkQ_l9K9u&s=10" group-title="🏁 Balapan TV", Motor Racing
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8Ho3J1CItaNLTHS8xfYqq6vkH20XG9Nig5-OSUsr8Jr5ZSNTkQ_l9K9u&s=10" group-title="🏁 Balapan TV 🏁", Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 
 
-#EXTINF:-1 group-title="🏁 Balapan TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DaDQQiA8bfjINTpAzAZkiVBt9Qz5zune4JlxKILJqzoyItuvaDxQ_4s9&s=10",sky sport MotoGP
+#EXTINF:-1 group-title="🏁 Balapan TV 🏁" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DaDQQiA8bfjINTpAzAZkiVBt9Qz5zune4JlxKILJqzoyItuvaDxQ_4s9&s=10",sky sport MotoGP
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/28473
 
-#EXTINF:-1 group-title="🏁 Balapan TV" tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987",sky sports F1
+#EXTINF:-1 group-title="🏁 Balapan TV 🏁" tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987",sky sports F1
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2876
 
 
