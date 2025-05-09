@@ -400,11 +400,11 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%2
 
 
 
-#EXTINF:-1 group-title="⚽LIGA INGGRIS⚽" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg",DAZN 1 - PT
+#EXTINF:-1 group-title="⚽LIGA INGGRIS⚽" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg",DAZN~1 PT
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 
 
-#EXTINF:-1 group-title="⚽LIGA INGGRIS⚽" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg",DAZN 2 - PT
+#EXTINF:-1 group-title="⚽LIGA INGGRIS⚽" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg",DAZN~2 PT
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8
 
 
@@ -436,26 +436,26 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen2.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS 1 Arabian
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS-1 Arabian
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS 2 Arabian
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS-2 Arabian
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS 3 Arabian
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="⚽LIGA INGGRIS⚽",beIN SPORTS-3 Arabian
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
 
 
-#EXTINF:-1 group-title="⚽LIGA INGGRIS⚽" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 1-AR
+#EXTINF:-1 group-title="⚽LIGA INGGRIS⚽" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports1-AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
 
 
-#EXTINF:-1 group-title="⚽LIGA INGGRIS⚽" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 2-AR
+#EXTINF:-1 group-title="⚽LIGA INGGRIS⚽" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports2-AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
@@ -493,9 +493,6 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_Premi
 #EXTINF:-1 group-title="⚽LIGA INGGRIS⚽" tvg-logo="https://i.imgur.com/CTkulsv.png",DAZN 1-ESP
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.m3u8
 
-
-#EXTINF:-1 group-title="⚽LIGA INGGRIS⚽" tvg-logo="https://i.imgur.com/gfHMs20.png",DAZN 2-ESP
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.m3u8
 
 
 
@@ -3017,6 +3014,9 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 ============='Test=============
 
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gfHMs20.png",DAZN 2-ESP
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/3p7TW6T/1000121937.jpg" group-title="Test",Sportstars 2 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
