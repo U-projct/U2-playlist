@@ -381,22 +381,22 @@ http://ktv.im:8080/fullpack15months354/213907856/21356
 
 ----------------------
 
-#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://i.imgur.com/N4JqWOO.png",DIGI SPORT 1
+#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11w8RgWFC6vVgJmZpLyA-77r1RjNsdy9iRg&s",DIGI SPORT 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%201.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://i.imgur.com/xhwYAj2.png",DIGI SPORT 2
+#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbk1NccG2d_DmNzrgHiNVgKQcux8cvB1OskQt8gU5saCIU_1axpHKB4LQ&s=10",DIGI SPORT 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%202.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://i.imgur.com/mIY63ZL.png",DIGI SPORT 3
+#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsMdHe7H_mLoaTJBiWlQw_boP78UfPuFL8OQHg7ug9qElNeW15i1hXGFA&s=10",DIGI SPORT 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%203.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://i.imgur.com/VGtk3wd.png",DIGI SPORT 4
+#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2lPYqJesoTrO6jDkZU0Ku_tkVQLsVESiVw&s",DIGI SPORT 4
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
 
 
@@ -437,16 +437,16 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen2.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="⚽ LIGA INGGRIS",beIN SPORTS-1 Arabian
+#EXTINF: -1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1507708944_bein1.jpg" group-title="⚽ LIGA INGGRIS",beIN SPORTS-1 Arabian
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="⚽ LIGA INGGRIS",beIN SPORTS-2 Arabian
+#EXTINF: -1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1507708949_bein2.jpg" group-title="⚽ LIGA INGGRIS",beIN SPORTS-2 Arabian
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="⚽ LIGA INGGRIS",beIN SPORTS-3 Arabian
+#EXTINF: -1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1641867970_logo-bein-sports-3.png" group-title="⚽ LIGA INGGRIS",beIN SPORTS-3 Arabian
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
 
 
@@ -497,7 +497,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="⚽ LIGA INGGRIS",CANAL+ PREMIER LEAGUE
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTrLLxBUb9FsR-tOdMEyFQiljbHgyTV8QMef-ZoYYjJ6wIzlchMIhnjxLc&s=10" group-title="⚽ LIGA INGGRIS",CANAL+ PREMIER LEAGUE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/canal%20plus%20premier%20league.m3u8
 
 
@@ -1490,7 +1490,7 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd
 https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://i.imgur.com/B6dgayf.png" group-title="Sports",TVRI SPORT 🇮🇩
+#EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZZNyn0wv0pWzJM-klgO1Hahm2iiGGmyfqw&usqp=CAU" group-title="Sports",TVRI SPORT 🇮🇩
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
@@ -3009,7 +3009,7 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 ============='Test=============
 
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gfHMs20.png",DAZN 2-ESP
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKZ8qISj84sC13D4wBPLbFEDpYeXr2AZkuNzgbp5NwtcF251-uNe1BLVM&s=10",DAZN 2-ESP
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/3p7TW6T/1000121937.jpg" group-title="Test",Sportstars 2 🇮🇩
