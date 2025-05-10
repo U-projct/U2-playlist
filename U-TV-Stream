@@ -450,13 +450,14 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
 
 
-#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest/scale-to-width-down/250?cb=20230910184457",beIN Sports1-AR
+
+#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/a51gd21603537641.png",beIN Sports1-AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
 
 
-#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/BeinSports2.svg/revision/latest/scale-to-width-down/250?cb=20230910185720",beIN Sports2-AR
+#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_2_France.png",beIN Sports2-AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
@@ -497,7 +498,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.
 
 
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTrLLxBUb9FsR-tOdMEyFQiljbHgyTV8QMef-ZoYYjJ6wIzlchMIhnjxLc&s=10" group-title="⚽ LIGA INGGRIS",CANAL+ PREMIER LEAGUE
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHpUEuJBE-TimrPCxG6qCnhTA4nMBur7132Ib9VStBY8ZlEAISGjN3RUo&s=10" group-title="⚽ LIGA INGGRIS",CANAL+ PREMIER LEAGUE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/canal%20plus%20premier%20league.m3u8
 
 
