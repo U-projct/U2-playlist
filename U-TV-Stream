@@ -451,13 +451,13 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/a51gd21603537641.png",beIN Sports1-AR
+#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest/scale-to-width-down/250?cb=20200107203607",beIN Sports1-AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
 
 
-#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_2_France.png",beIN Sports2-AR
+#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest/scale-to-width-down/250?cb=20200107203903",beIN Sports2-AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
