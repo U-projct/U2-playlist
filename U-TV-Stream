@@ -547,6 +547,28 @@ https://wahyu1ptv.pages.dev/DaznLaliga1-HD.m3u8
 https://wahyu1ptv.pages.dev/MLaliga-HD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports1.png" group-title="⚽ LIGA SPANYOL",Setanta Sports1
+https://wahyu1ptv.pages.dev/Setanta1-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="⚽ LIGA SPANYOL",Go3 Sport 1
+https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
+
+
+#EXTINF:-1 group-title="⚽ LIGA SPANYOL" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_RyQJGv_Ww7JbKF-MVnI4zXiweg7_nvprSOTY6oyygeh_WOpngy6z-EQ&s=10",ELEVEN SPORTS 1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
+
+
+#EXTINF:-1 group-title="⚽ LIGA SPANYOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnlFMq6BlIyC2V5bqY2uXT42wfTsuDaHQ6WA&s",ELEVEN SPORTS 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%202.m3u8
+
+
+#EXTINF:-1 group-title="⚽ LIGA SPANYOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS9Z7xGSQlo40jVN7Vnwa22PjWuMW2ySGd9g&s",ELEVEN SPORTS 3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%203.m3u8
+
+
+
 ====== ⚽'LIGA ITALI⚽======
 
 
