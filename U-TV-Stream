@@ -64,7 +64,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
-#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Sky-Sports-Premier-League.png" group-title="⚽ BAL-BALAN TV ⚽", Sky Sports Premier League FHD 
+#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGxBUaBKnPIJJ83Nb6wVDslt3KdtAUTXE-wx3qV7-o6Qix36heThHWgiZS&s=10" group-title="⚽ BAL-BALAN TV ⚽", Sky Sports Premier League - FHD 
 http://ktv.im:8080/fullpack15months354/213907856/21356
 
 #EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SUPERSPORTS LALIGA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCooR0Wf0-pvi7m5skN9cIbYnwK8X08h6z9YFL4TPU2SUPmF-AVtJ3GvY&s=10" group-title="⚽ BAL-BALAN TV ⚽",LALIGA TV
@@ -343,7 +343,7 @@ https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Sky-Sports-Premier-League.png" group-title="⚽ LIGA INGGRIS", Sky Sports Premier League FHD 
+#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGxBUaBKnPIJJ83Nb6wVDslt3KdtAUTXE-wx3qV7-o6Qix36heThHWgiZS&s=10" group-title="⚽ LIGA INGGRIS", Sky Sports Premier League FHD 
 http://ktv.im:8080/fullpack15months354/213907856/21356 
 
 ----------------------
@@ -422,7 +422,7 @@ https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
 https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgehc-gS9F4iHP31UpbNWQDlFN7cYae7FSVT-ZI-K1mikGatA2Wf8BxBKP&s=10" group-title="⚽ LIGA INGGRIS",SKY SPORTS PREMIER LEAGUE - UK
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgehc-gS9F4iHP31UpbNWQDlFN7cYae7FSVT-ZI-K1mikGatA2Wf8BxBKP&s=10" group-title="⚽ LIGA INGGRIS", Sky Sports Premier League - UK
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl.m3u8
 
 
@@ -695,20 +695,40 @@ http://yesimes.oknirvana.club:8880/D12m3714/63343961/2876
 
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="Indonesia Channels",RCTI HD
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+#EXTINF:-1 tvg-id="RCTI"tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="Indonesia Channels", RCTI
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.pinimg.com/736x/9a/e3/77/9ae3777d14f76dd3aa6e22c87763733b.jpg" group-title="Indonesia Channels",MNC TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="Indonesia Channels",GTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="Indonesia Channels",GTV
+https://wahyu1ptv.pages.dev/gTv-HD.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="Indonesia Channels",RCTI - Backup
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+
+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="Indonesia Channels",GTV - Backup
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+ 
+ 
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:0 tvg-id="MNCTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.pinimg.com/736x/9a/e3/77/9ae3777d14f76dd3aa6e22c87763733b.jpg" group-title="Indonesia Channels", MNCTV - Backup
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
 
@@ -717,7 +737,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
-#EXTINF:0 tvg-id="INDOSIAR" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="Indonesia Channels", INDOSIAR HD
+#EXTINF:0 tvg-id="INDOSIAR" tvg-logo="https://cdn.kibrispdr.org/data/429/gambar-logo-indosiar-53.jpg" group-title="Indonesia Channels", INDOSIAR - Backup
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -750,10 +770,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQg7bYnUnQ6Vzr9K53jLo8a2G9PbHxKlpEQ&s" group-title="Indonesia Channels",TransTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+
+#EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQg7bYnUnQ6Vzr9K53jLo8a2G9PbHxKlpEQ&s" group-title="Indonesia Channels",TransTV HD
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/30/Trans-7-1341636338.jpeg" group-title="Indonesia Channels",TRANS 7 HD
@@ -786,7 +806,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.pinimg.com/736x/74/2b/f4/742bf4e8434acdb8be5653992620b7b2.jpg",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.kibrispdr.org/data/717/metro-tv-news-logo-14.png",Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
@@ -809,6 +829,13 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews TV - Backup
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://img.inews.co.id/media/450/files/inews_new/2019/10/02/stream_idx.png",IDX
@@ -986,7 +1013,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 
-#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Sky-Sports-Premier-League.png" group-title="Sports", Sky Sports Premier League FHD 
+#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGxBUaBKnPIJJ83Nb6wVDslt3KdtAUTXE-wx3qV7-o6Qix36heThHWgiZS&s=10" group-title="Sports", Sky Sports Premier League FHD 
 http://ktv.im:8080/fullpack15months354/213907856/21356 
 #EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SUPERSPORTS LALIGA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCooR0Wf0-pvi7m5skN9cIbYnwK8X08h6z9YFL4TPU2SUPmF-AVtJ3GvY&s=10" group-title="Sports",LALIGA TV 
 http://ktv.im:8080/fullpack15months354/213907856/21355
@@ -1104,9 +1131,6 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZZNyn0wv0pWzJM-klgO1Hahm2iiGGmyfqw&usqp=CAU" group-title="Sports",TVRI Sport HD 🇮🇩
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysi8jGCxlR5_MNvGv2YQCg0KDe-J9w7c83HFx6nZM0HeqZtq3UPzumcGM&s=10" tvg-id="98" , Motorvision+ TV
@@ -1423,21 +1447,6 @@ http://yesimes.oknirvana.club:8880/D12m3714/63343961/28473
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987",sky sports F1
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2876
 
-
-#EXTINF:-1 tvg-id="SKY SPORTS" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="Sports" , sky sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
-https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
-
-
-#EXTINF:-1 tvg-id="SKY SPORTS 2" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="Sports" , sky sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
-https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd
 
 
 #EXTINF: -1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/07/14121617/Fight-Sports-screen.jpg" group-title="Sports",Fight Sports
@@ -2978,6 +2987,22 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 ============='Test=============
 
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="Test",RCTI HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="Test",GTV 
+https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZZNyn0wv0pWzJM-klgO1Hahm2iiGGmyfqw&usqp=CAU" group-title="Test",TVRI Sport HD 🇮🇩
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+
 #EXTINF:-1 group-title="Test" tvg-id="beritasatu" tvg-logo="https://about.vidio.com/wp-content/uploads/2021/03/Berita-Satu-Landscape.jpg",BERITASATU HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/berita1.m3u8
@@ -3060,13 +3085,6 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
-
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",MY: Astro Premier League
-http://15.235.144.67:35461/654321/123456/11243
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",MY: Astro Premier League 2
-http://15.235.144.67:35461/654321/123456/971
 
 
 
