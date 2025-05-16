@@ -346,6 +346,19 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #EXTINF:-1 tvg-id="SS Premier League" tvg-name="SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGxBUaBKnPIJJ83Nb6wVDslt3KdtAUTXE-wx3qV7-o6Qix36heThHWgiZS&s=10" group-title="⚽ LIGA INGGRIS", Sky Sports Premier League FHD 
 http://ktv.im:8080/fullpack15months354/213907856/21356 
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a9/Prima_Sport_2_%282022-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20240205122246" group-title="⚽ LIGA INGGRIS",Prima Sport 2
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/9a/Prima_Sport_3_%282022-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20240205122802" group-title="⚽ LIGA INGGRIS",Prima Sport 3
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+
 ----------------------
 
 #EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11w8RgWFC6vVgJmZpLyA-77r1RjNsdy9iRg&s",DIGI SPORT 1
@@ -422,8 +435,9 @@ https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
 https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgehc-gS9F4iHP31UpbNWQDlFN7cYae7FSVT-ZI-K1mikGatA2Wf8BxBKP&s=10" group-title="⚽ LIGA INGGRIS", Sky Sports Premier League - UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgehc-gS9F4iHP31UpbNWQDlFN7cYae7FSVT-ZI-K1mikGatA2Wf8BxBKP&s=10" group-title="⚽ LIGA INGGRIS",Sky Sports Premier League - UK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl%202.m3u8
 
 
 
@@ -436,6 +450,12 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_Premi
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-id="truepremierfootball3.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",EPL-True Premier 3 Football
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
 
 
@@ -457,6 +477,28 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportPL.png" group-title="⚽ LIGA INGGRIS",sky sport Premiere League-DE
 https://wahyu1ptv.pages.dev/SkySportPL-HD.m3u8
 
+
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2TH5ZKuCq_S29UhqDV5U_jIkNPYYsigiKZvZA4gkS48FTIqXrok_H81g&s=10" group-title="⚽ LIGA INGGRIS",sky sports main event
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent%202.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1s9NgUW0Ngt9cXe-KL_-HexxY5HqSF1lJkfGjliJzH48uyZmU0I0N51T8&s=10" group-title="⚽ LIGA INGGRIS",ARENA 2 PREMIUM 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%202.m3u8
+
+
+
+#EXTINF:-1 group-title="⚽ LIGA INGGRIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Liga_de_Campeones_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/264?cb=20230721193658",MOVISTAR+ Liga De Campeones
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MOVISTAR%20LIGA%20DE%20CAMPEONES.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="⚽ LIGA INGGRIS",Super Sport 2
+https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports1.png" group-title="⚽ LIGA INGGRIS",Setanta Sports1
+https://wahyu1ptv.pages.dev/Setanta1-HD.m3u8
 
 
 ======== ⚽'LIGA SPANYOL⚽ ========
@@ -555,6 +597,12 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORT
 #EXTINF:-1 group-title="⚽ LIGA SPANYOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS9Z7xGSQlo40jVN7Vnwa22PjWuMW2ySGd9g&s",ELEVEN SPORTS 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%203.m3u8
 
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/BeINSports1.svg/revision/latest/scale-to-width-down/300?cb=20220419110315" group-title="⚽ LIGA SPANYOL",MY: beIN SPORTS 1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my1.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Bein_Sports_3.svg/revision/latest/scale-to-width-down/300?cb=20220419111150" group-title="⚽ LIGA SPANYOL",MY: beIN SPORTS 3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my3.m3u8
 
 
 ====== ⚽'LIGA ITALI⚽======
