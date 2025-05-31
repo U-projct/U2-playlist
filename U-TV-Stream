@@ -5,7 +5,7 @@
 Champions league
 
 
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZ02Gh4x4hXfB6vMw8zzWSYCoXRWEtRZBn9CsSmxAzr41TIWqfyaHEpg&s=10" group-title="🏆 LIGA CHAMPIONS 🏆",1. beIN Sports 1 
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV4BSPmtdIcLS2CxgxlKSlPAijJu9UxxPNf6-OYTkPngsV7IuWi_KSbOC&s=10" group-title="🏆 LIGA CHAMPIONS 🏆",1. beIN Sports 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13,8 +13,10 @@ Champions league
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV4BSPmtdIcLS2CxgxlKSlPAijJu9UxxPNf6-OYTkPngsV7IuWi_KSbOC&s=10" group-title="🏆 LIGA CHAMPIONS 🏆", 2. beIN SPORTS 1 Arabic
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
 
-#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZ02Gh4x4hXfB6vMw8zzWSYCoXRWEtRZBn9CsSmxAzr41TIWqfyaHEpg&s=10g" group-title="🏆 LIGA CHAMPIONS 🏆",2. TNT SPORTS 1
+#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV4BSPmtdIcLS2CxgxlKSlPAijJu9UxxPNf6-OYTkPngsV7IuWi_KSbOC&s=10" group-title="🏆 LIGA CHAMPIONS 🏆",3. TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -23,7 +25,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZ02Gh4x4hXfB6vMw8zzWSYCoXRWEtRZBn9CsSmxAzr41TIWqfyaHEpg&s=10g" group-title="🏆 LIGA CHAMPIONS 🏆",3. TNT Sports 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV4BSPmtdIcLS2CxgxlKSlPAijJu9UxxPNf6-OYTkPngsV7IuWi_KSbOC&s=10" group-title="🏆 LIGA CHAMPIONS 🏆",4. TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -31,10 +33,11 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZ02Gh4x4hXfB6vMw8zzWSYCoXRWEtRZBn9CsSmxAzr41TIWqfyaHEpg&s=10g" group-title="🏆 LIGA CHAMPIONS 🏆", 4. beIN SPORTS 1 Arabic
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV4BSPmtdIcLS2CxgxlKSlPAijJu9UxxPNf6-OYTkPngsV7IuWi_KSbOC&s=10" group-title="🏆 LIGA CHAMPIONS 🏆",5. beIN SPORTS 1-my
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my1.m3u8
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZ02Gh4x4hXfB6vMw8zzWSYCoXRWEtRZBn9CsSmxAzr41TIWqfyaHEpg&s=10g" group-title="🏆 LIGA CHAMPIONS 🏆",5. beIN SPORTS 1 English
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV4BSPmtdIcLS2CxgxlKSlPAijJu9UxxPNf6-OYTkPngsV7IuWi_KSbOC&s=10" group-title="🏆 LIGA CHAMPIONS 🏆",6. beIN SPORTS 1 English
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
 
 
@@ -774,14 +777,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
 
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
-#EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="⚽ Bal-balan Indonesia",Sportstars 2 V+ 🇮🇩
-https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_2.png" group-title="⚽ Bal-balan Indonesia",Sportstars 2 HD 🇮🇩
@@ -3130,6 +3125,15 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
 ============='Test=============
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Test",Sportstars 2 V+ 🇮🇩
+https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
