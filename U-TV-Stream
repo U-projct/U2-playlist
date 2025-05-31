@@ -2,6 +2,45 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 
+Champions league
+
+
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZ02Gh4x4hXfB6vMw8zzWSYCoXRWEtRZBn9CsSmxAzr41TIWqfyaHEpg&s=10" group-title="🏆 LIGA CHAMPIONS 🏆",1. beIN Sports 1 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+
+#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZ02Gh4x4hXfB6vMw8zzWSYCoXRWEtRZBn9CsSmxAzr41TIWqfyaHEpg&s=10g" group-title="🏆 LIGA CHAMPIONS 🏆",2. TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZ02Gh4x4hXfB6vMw8zzWSYCoXRWEtRZBn9CsSmxAzr41TIWqfyaHEpg&s=10g" group-title="🏆 LIGA CHAMPIONS 🏆",3. TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZ02Gh4x4hXfB6vMw8zzWSYCoXRWEtRZBn9CsSmxAzr41TIWqfyaHEpg&s=10g" group-title="🏆 LIGA CHAMPIONS 🏆", 4. beIN SPORTS 1 Arabic
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZ02Gh4x4hXfB6vMw8zzWSYCoXRWEtRZBn9CsSmxAzr41TIWqfyaHEpg&s=10g" group-title="🏆 LIGA CHAMPIONS 🏆",5. beIN SPORTS 1 English
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
+
+
+
+
+
 ==============='BAL-BALAN TV================
 
 
@@ -1039,6 +1078,14 @@ https://terabit.web.id/media.mpd?id=114&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_1.png" group-title="Sports",Sportstars 1 - HD
+https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_2.png" group-title="Sports",Sportstars 2 - HD
+https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
