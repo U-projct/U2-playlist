@@ -2,48 +2,6 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 
-Champions league
-
-
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV4BSPmtdIcLS2CxgxlKSlPAijJu9UxxPNf6-OYTkPngsV7IuWi_KSbOC&s=10" group-title="🏆 LIGA CHEMPYENS 🏆",1. beIN Sports 1 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV4BSPmtdIcLS2CxgxlKSlPAijJu9UxxPNf6-OYTkPngsV7IuWi_KSbOC&s=10" group-title="🏆 LIGA CHEMPYENS 🏆", 2. beIN SPORTS 1 Arabic
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
-
-#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV4BSPmtdIcLS2CxgxlKSlPAijJu9UxxPNf6-OYTkPngsV7IuWi_KSbOC&s=10" group-title="🏆 LIGA CHEMPYENS 🏆",3. TNT SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV4BSPmtdIcLS2CxgxlKSlPAijJu9UxxPNf6-OYTkPngsV7IuWi_KSbOC&s=10" group-title="🏆 LIGA CHEMPYENS 🏆",4. TNT Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase
-
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV4BSPmtdIcLS2CxgxlKSlPAijJu9UxxPNf6-OYTkPngsV7IuWi_KSbOC&s=10" group-title="🏆 LIGA CHEMPYENS 🏆",5. beIN SPORTS 1 English
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV4BSPmtdIcLS2CxgxlKSlPAijJu9UxxPNf6-OYTkPngsV7IuWi_KSbOC&s=10" group-title="🏆 LIGA CHEMPYENS 🏆",6. beIN SPORTS 1-my
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my1.m3u8
-
-
-
-
 ==============='BAL-BALAN TV================
 
 
@@ -952,10 +910,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png" group-title="🇮🇩 Indonesia TV 🇮🇩",SindoNews TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="🇮🇩 Indonesia TV 🇮🇩" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png",SindoNews
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+https://WahyuIPTV.short.gy/SindoNewsTV-HD.mpd
 
 
 #EXTINF:-1 group-title="🇮🇩 Indonesia TV 🇮🇩" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews TV
@@ -1635,17 +1592,16 @@ https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
 ============== 'ISLAMIC TV ==============
 
 
-#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-name="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/fullhd_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="ISLAMIC TV", 1. SAUDI QUR'AN TV Live
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5321d2a153ab463dba1c60b9068165c6:6c8194b07b1f2d114feb594d2ae6ee51
-https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="ISLAMIC TV", 2. SAUDI SUNNAH TV Live
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3084383b39c3452b81ee0535bd381dee:bf25afb0796a4a73f127f056c206800d
-https://sunna-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.mpd
+#EXTINF:-1 group-title="ISLAMIC TV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/fullhd_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png",1.Live Makkah SAUDI QUR'AN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="ISLAMIC TV", 2.Live Madinah SAUDI SUNNAH TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MqTv.png" group-title="ISLAMIC TV", MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
