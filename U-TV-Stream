@@ -1,6 +1,18 @@
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
+TIMNAS INDONESIA
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF74URc1cXQjRO_y2PGQSWIl8XctZH_YVzlYsT2D1NAXmMixAxyWxwSTWc&s=10" group-title="🇮🇩BAL-BALAN TIMNAS🇮🇩",Sportstars 2 🇮🇩
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDzsVt62bQDR_ebo9mEMLPWbzWk9kc7wPSB3yEVrLv_R7VrGIqhKUSRJGA&s=10" group-title="🇮🇩BAL-BALAN TIMNAS🇮🇩",Sportstars 2 HD 🇮🇩
+https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 
 ==============='BAL-BALAN TV================
 
@@ -707,16 +719,8 @@ https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
 
 
-
 ====== 'Bal-balan Indonesia ======
 
-
-
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="⚽ Bal-balan Indonesia", Indosiar-BRI Liga 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/3p7TW6T/1000121937.jpg" group-title="⚽ Bal-balan Indonesia",Sportstars 2 🇮🇩
