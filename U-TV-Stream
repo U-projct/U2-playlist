@@ -1,18 +1,15 @@
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-TIMNAS INDONESIA
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF74URc1cXQjRO_y2PGQSWIl8XctZH_YVzlYsT2D1NAXmMixAxyWxwSTWc&s=10" group-title="🇮🇩BAL-BALAN TIMNAS🇮🇩",Sportstars 2 🇮🇩
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQ8qSAIxtOt8orrlZ7dE_H1IHwWDzY3hcrbMpNPN5WJKM0tNtEpQUWsN_&s=10" group-title="🇮🇩BAL-BALAN TIMNAS - SELASA 10/06/2025 17:35",Sportstars 2 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDzsVt62bQDR_ebo9mEMLPWbzWk9kc7wPSB3yEVrLv_R7VrGIqhKUSRJGA&s=10" group-title="🇮🇩BAL-BALAN TIMNAS🇮🇩",Sportstars 2 HD 🇮🇩
-https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 
 ==============='BAL-BALAN TV================
 
