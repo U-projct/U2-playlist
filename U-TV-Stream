@@ -3,14 +3,14 @@
 
 
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQ8qSAIxtOt8orrlZ7dE_H1IHwWDzY3hcrbMpNPN5WJKM0tNtEpQUWsN_&s=10" group-title="🇮🇩BAL-BALAN TIMNAS  SELASA PON 10/06/2025 17:35 WIB",Sportstars 2 🇮🇩
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQ8qSAIxtOt8orrlZ7dE_H1IHwWDzY3hcrbMpNPN5WJKM0tNtEpQUWsN_&s=10" group-title="🇮🇩BAL-BALAN TIMNAS  SELASA PON 10/06/2025 Kick Off 17:35 WIB",Sportstars 2 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 group-title="🇮🇩BAL-BALAN TIMNAS  SELASA PON 10/06/2025 17:35 WIB" tvg-logo="https://i.ibb.co.com/3p7TW6T/1000121937.jpg", Sportstars 2- 🇮🇩
+#EXTINF:-1 group-title="🇮🇩BAL-BALAN TIMNAS  SELASA PON 10/06/2025 Kick Off 17:35 WIB" tvg-logo="https://i.ibb.co.com/3p7TW6T/1000121937.jpg", Sportstars 2- 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -310,6 +310,11 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_Premi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
+
+#EXTINF:-1 group-title="⚽ BAL-BALAN TV ⚽" tvg-id="truepremierfootball3.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",EPL-true Premier 3
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
 
 =========⚽'LIGA INGGRIS⚽=========
@@ -1044,14 +1049,6 @@ https://terabit.web.id/media.mpd?id=114&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_1.png" group-title="Sports",Sportstars 1 - HD
-https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_2.png" group-title="Sports",Sportstars 2 - HD
-https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3095,6 +3092,14 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
 ============='Test=============
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_1.png" group-title="Test",Sportstars 1 - HD
+https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_2.png" group-title="Test",Sportstars 2 - HD
+https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
